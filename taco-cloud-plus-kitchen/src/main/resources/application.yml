@@ -1,0 +1,69 @@
+Spring:
+  application:
+    name: tc-kitchen
+  datasource:
+    driver-class-name: org.apache.shardingsphere.driver.ShardingSphereDriver
+    url: jdbc:shardingsphere:classpath:sharding.yml
+#  datasource:
+#    type: com.alibaba.druid.pool.DruidDataSource
+#    username: root
+#    password: 123456
+#    url: jdbc:mysql://localhost:23306/tacokitchen
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+  kafka:
+    bootstrap-servers:
+      - "127.0.0.1:9092"
+    producer:
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+      key-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+      properties:
+        spring:
+          json:
+            trusted:
+              packages: "com.avgkin.tacocloudpluskitchen.entity"
+    consumer:
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      key-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      group-id: avgkin
+      properties:
+        spring:
+          json:
+            trusted:
+              packages: "*"
+      enable-auto-commit: true
+  cloud:
+    nacos:
+      server-addr: 127.0.0.1:8848
+      discovery:
+        cluster-name: Avgkin
+  config:
+    import: nacos:Avgkin.yml
+#  shardingsphere:
+#    datasource:
+#      names: ds0,ds1
+#      ds0:
+#        type: com.alibaba.druid.pool.DruidDataSource
+#        driverclass: com.mysql.cj.jdbc.Driver
+#        url: jdbc:mysql://localhost:23306/tacokitchen_0
+#        username: root
+#        password: 123456
+#      ds1:
+#        type: com.alibaba.druid.pool.DruidDataSource
+#        driverclass: com.mysql.cj.jdbc.Driver
+#        url: jdbc:mysql://localhost:23306/tacokitchen_1
+#        username: root
+#        password: 123456
+#    sharding:
+#      default-database-strategy:
+#        inline:
+#          sharding-column: id
+#          algorithm-expression: db$->{id%2}
+#      tables:
+#        user:
+#          actual-data-nodes: ds$->{0..1}.order_&->{0..1}
+#      props:
+#        sql:
+#          show: true
+
+server:
+  port: 19001

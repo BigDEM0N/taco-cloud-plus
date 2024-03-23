@@ -1,0 +1,48 @@
+2024-03-22 22:43:10,668 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-22 22:43:10,690 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-22 22:43:17,747 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-22 22:43:17,747 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-22 22:43:17,748 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-22 22:43:17,748 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-22 22:43:18,125 INFO Load instance extension handler []
+
+2024-03-22 22:43:19,836 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-22 22:43:19,836 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-22 22:43:19,837 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-22 22:43:19,837 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-22 22:43:20,489 INFO Load instance extension handler []
+
+2024-03-22 22:43:25,495 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-22 22:43:27,391 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-22 22:43:27,501 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-22 22:43:27,504 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-22 22:57:07,149 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-03-22 22:57:07,149 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-03-22 22:57:07,167 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-03-22 22:57:07,171 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-03-22 22:57:07,211 INFO Client connection 1711118603083_192.168.56.4_34774 disconnect, remove instances and subscribers
+
+2024-03-22 22:57:07,216 INFO Client connection 1711118602510_192.168.56.5_39366 disconnect, remove instances and subscribers
+
+2024-03-22 22:57:07,244 INFO Client connection 1711118600630_192.168.56.7_40484 disconnect, remove instances and subscribers
+
+2024-03-22 22:57:07,249 INFO Client connection 1711118600528_192.168.56.4_43892 disconnect, remove instances and subscribers
+

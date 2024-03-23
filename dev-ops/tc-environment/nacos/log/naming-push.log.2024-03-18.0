@@ -1,0 +1,4 @@
+2024-03-20 01:20:48,116 INFO [PUSH-SUCC] 135ms, all delay time 662ms for subscriber 192.168.149.1, Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=2}, originalSize=2, DataSize=2
+
+2024-03-20 01:23:58,024 INFO [PUSH-SUCC] 6ms, all delay time 545ms for subscriber 192.168.149.1, Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=1}, originalSize=1, DataSize=1
+

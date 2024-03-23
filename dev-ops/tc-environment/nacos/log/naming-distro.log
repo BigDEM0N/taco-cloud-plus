@@ -1,0 +1,354 @@
+2024-03-21 00:01:49,247 INFO client 1710950509086_192.168.56.4_49020 is invalid, get new client from 192.168.56.5
+
+2024-03-21 00:01:49,311 INFO [Client-Add] Received distro client sync data 1710950509086_192.168.56.4_49020, revision=1
+
+2024-03-21 00:01:49,311 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710950509086_192.168.56.4_49020
+
+2024-03-21 00:02:06,432 INFO [Client-Delete] Received distro client sync data 1710950509086_192.168.56.4_49020
+
+2024-03-21 00:12:30,432 INFO [Client-Delete] Received distro client sync data 1710951149231_192.168.56.4_46890
+
+2024-03-21 00:15:11,423 INFO [Client-Add] Received distro client sync data 1710951310293_192.168.56.4_46630, revision=1
+
+2024-03-21 00:15:11,423 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710951310293_192.168.56.4_46630
+
+2024-03-21 00:44:52,353 INFO [Client-Delete] Received distro client sync data 1710951310293_192.168.56.4_46630
+
+2024-03-21 00:44:59,288 INFO client 1710953099247_192.168.56.4_56244 is invalid, get new client from 192.168.56.3
+
+2024-03-21 00:44:59,351 INFO [Client-Add] Received distro client sync data 1710953099247_192.168.56.4_56244, revision=0
+
+2024-03-21 00:44:59,351 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710953099247_192.168.56.4_56244
+
+2024-03-21 00:45:00,451 INFO [Client-Add] Received distro client sync data 1710953099247_192.168.56.4_56244, revision=1
+
+2024-03-21 00:45:00,452 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710953099247_192.168.56.4_56244
+
+2024-03-21 00:46:07,630 INFO [Client-Delete] Received distro client sync data 1710953099247_192.168.56.4_56244
+
+2024-03-21 00:46:14,991 INFO Target nacos-server-2:8848 verify client 1710953174007_192.168.56.4_60226 failed, sync new client
+
+2024-03-21 00:46:14,991 INFO Target nacos-server-3:8848 verify client 1710953174007_192.168.56.4_60226 failed, sync new client
+
+2024-03-21 00:48:13,476 INFO [Client-Add] Received distro client sync data 1710953292298_192.168.56.4_53332, revision=1
+
+2024-03-21 00:48:13,476 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710953292298_192.168.56.4_53332
+
+2024-03-21 00:58:17,894 INFO [Client-Delete] Received distro client sync data 1710953292298_192.168.56.4_53332
+
+2024-03-21 00:58:24,317 INFO client 1710953904044_192.168.56.4_40394 is invalid, get new client from 192.168.56.3
+
+2024-03-21 00:58:24,400 INFO [Client-Add] Received distro client sync data 1710953904044_192.168.56.4_40394, revision=1
+
+2024-03-21 00:58:24,400 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710953904044_192.168.56.4_40394
+
+2024-03-21 00:59:47,094 INFO [Client-Delete] Received distro client sync data 1710953904044_192.168.56.4_40394
+
+2024-03-21 01:04:26,405 INFO [Client-Add] Received distro client sync data 1710954265176_192.168.56.4_35100, revision=1
+
+2024-03-21 01:04:26,405 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710954265176_192.168.56.4_35100
+
+2024-03-21 01:05:22,171 INFO [Client-Delete] Received distro client sync data 1710954265176_192.168.56.4_35100
+
+2024-03-21 01:05:29,333 INFO client 1710954328828_192.168.56.4_52260 is invalid, get new client from 192.168.56.3
+
+2024-03-21 01:05:29,374 INFO [Client-Add] Received distro client sync data 1710954328828_192.168.56.4_52260, revision=1
+
+2024-03-21 01:05:29,374 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710954328828_192.168.56.4_52260
+
+2024-03-21 01:06:13,621 INFO [Client-Delete] Received distro client sync data 1710954328828_192.168.56.4_52260
+
+2024-03-21 01:11:32,787 INFO [Client-Add] Received distro client sync data 1710954691616_192.168.56.4_58380, revision=1
+
+2024-03-21 01:11:32,787 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710954691616_192.168.56.4_58380
+
+2024-03-21 01:13:39,242 INFO [Client-Delete] Received distro client sync data 1710954691616_192.168.56.4_58380
+
+2024-03-21 01:13:47,346 INFO [Client-Add] Received distro client sync data 1710954826222_192.168.56.4_60120, revision=1
+
+2024-03-21 01:13:47,346 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710954826222_192.168.56.4_60120
+
+2024-03-21 01:18:57,220 INFO [Client-Delete] Received distro client sync data 1710954826222_192.168.56.4_60120
+
+2024-03-21 01:19:49,391 INFO client 1710955189299_192.168.56.4_50614 is invalid, get new client from 192.168.56.5
+
+2024-03-21 01:19:50,480 INFO [Client-Add] Received distro client sync data 1710955189299_192.168.56.4_50614, revision=1
+
+2024-03-21 01:19:50,480 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710955189299_192.168.56.4_50614
+
+2024-03-21 01:20:16,007 INFO [Client-Add] Received distro client sync data 1710955214799_192.168.56.4_38184, revision=1
+
+2024-03-21 01:20:16,007 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710955214799_192.168.56.4_38184
+
+2024-03-21 01:21:19,382 INFO [Client-Delete] Received distro client sync data 1710955214799_192.168.56.4_38184
+
+2024-03-21 01:21:21,686 INFO [Client-Delete] Received distro client sync data 1710955189299_192.168.56.4_50614
+
+2024-03-21 01:21:43,110 INFO [Client-Add] Received distro client sync data 1710955301991_192.168.56.4_47610, revision=1
+
+2024-03-21 01:21:43,111 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1710955301991_192.168.56.4_47610
+
+2024-03-21 01:22:19,151 INFO [Client-Delete] Received distro client sync data 1710950212069_192.168.56.4_41602
+
+2024-03-21 01:22:24,959 INFO [Client-Delete] Received distro client sync data 1710955301991_192.168.56.4_47610
+
+2024-03-21 14:25:09,578 INFO [Client-Add] Received distro client sync data 1711002308317_192.168.56.2_45474, revision=1
+
+2024-03-21 14:25:09,578 INFO [Client-Add] Received distro client sync data 1711002308317_192.168.56.2_45474, revision=1
+
+2024-03-21 14:25:09,585 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002308317_192.168.56.2_45474
+
+2024-03-21 14:25:09,585 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002308317_192.168.56.2_45474
+
+2024-03-21 14:25:19,314 INFO [Client-Add] Received distro client sync data 1711002318073_192.168.56.2_49810, revision=1
+
+2024-03-21 14:25:19,314 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002318073_192.168.56.2_49810
+
+2024-03-21 14:25:19,321 INFO [Client-Add] Received distro client sync data 1711002318073_192.168.56.2_49810, revision=1
+
+2024-03-21 14:25:19,324 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002318073_192.168.56.2_49810
+
+2024-03-21 14:25:27,649 INFO [Client-Add] Received distro client sync data 1711002308317_192.168.56.2_45474, revision=1
+
+2024-03-21 14:25:27,649 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002308317_192.168.56.2_45474
+
+2024-03-21 14:25:27,650 INFO [Client-Add] Received distro client sync data 1711002318073_192.168.56.2_49810, revision=1
+
+2024-03-21 14:25:27,650 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002318073_192.168.56.2_49810
+
+2024-03-21 14:25:27,737 INFO [Client-Add] Received distro client sync data 1711002308317_192.168.56.2_45474, revision=1
+
+2024-03-21 14:25:27,737 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002308317_192.168.56.2_45474
+
+2024-03-21 14:25:27,737 INFO [Client-Add] Received distro client sync data 1711002318073_192.168.56.2_49810, revision=1
+
+2024-03-21 14:25:27,737 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002318073_192.168.56.2_49810
+
+2024-03-21 14:25:27,766 INFO [Client-Add] Received distro client sync data 1711002308317_192.168.56.2_45474, revision=1
+
+2024-03-21 14:25:27,767 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002308317_192.168.56.2_45474
+
+2024-03-21 14:25:27,767 INFO [Client-Add] Received distro client sync data 1711002318073_192.168.56.2_49810, revision=1
+
+2024-03-21 14:25:27,767 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002318073_192.168.56.2_49810
+
+2024-03-21 14:25:29,549 INFO [Client-Add] Received distro client sync data 1711002328326_192.168.56.2_45994, revision=1
+
+2024-03-21 14:25:29,550 INFO [Client-Add] Received distro client sync data 1711002328326_192.168.56.2_45994, revision=1
+
+2024-03-21 14:25:29,550 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002328326_192.168.56.2_45994
+
+2024-03-21 14:25:29,549 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002328326_192.168.56.2_45994
+
+2024-03-21 14:25:38,897 INFO [Client-Add] Received distro client sync data 1711002337747_192.168.56.2_44548, revision=1
+
+2024-03-21 14:25:38,898 INFO [Client-Add] Received distro client sync data 1711002337747_192.168.56.2_44548, revision=1
+
+2024-03-21 14:25:38,898 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002337747_192.168.56.2_44548
+
+2024-03-21 14:25:38,898 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002337747_192.168.56.2_44548
+
+2024-03-21 14:26:30,959 INFO [Client-Delete] Received distro client sync data 1711002337747_192.168.56.2_44548
+
+2024-03-21 14:26:30,960 INFO [Client-Delete] Received distro client sync data 1711002337747_192.168.56.2_44548
+
+2024-03-21 14:26:40,203 INFO [Client-Add] Received distro client sync data 1711002399031_192.168.56.2_38150, revision=1
+
+2024-03-21 14:26:40,204 INFO [Client-Add] Received distro client sync data 1711002399031_192.168.56.2_38150, revision=1
+
+2024-03-21 14:26:40,203 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002399031_192.168.56.2_38150
+
+2024-03-21 14:26:40,204 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002399031_192.168.56.2_38150
+
+2024-03-21 14:28:01,689 INFO [Client-Delete] Received distro client sync data 1711002399031_192.168.56.2_38150
+
+2024-03-21 14:28:01,689 INFO [Client-Delete] Received distro client sync data 1711002399031_192.168.56.2_38150
+
+2024-03-21 14:28:10,636 INFO client 1711002489553_192.168.56.2_56590 is invalid, get new client from 192.168.56.7
+
+2024-03-21 14:28:10,636 INFO client 1711002489553_192.168.56.2_56590 is invalid, get new client from 192.168.56.7
+
+2024-03-21 14:28:10,637 INFO Target nacos-server-3:8848 verify client 1711002489553_192.168.56.2_56590 failed, sync new client
+
+2024-03-21 14:28:10,637 INFO Target nacos-server-1:8848 verify client 1711002489553_192.168.56.2_56590 failed, sync new client
+
+2024-03-21 14:28:10,727 INFO [Client-Add] Received distro client sync data 1711002489553_192.168.56.2_56590, revision=1
+
+2024-03-21 14:28:10,727 INFO [Client-Add] Received distro client sync data 1711002489553_192.168.56.2_56590, revision=1
+
+2024-03-21 14:28:10,727 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002489553_192.168.56.2_56590
+
+2024-03-21 14:28:10,727 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002489553_192.168.56.2_56590
+
+2024-03-21 14:29:35,224 INFO [Client-Delete] Received distro client sync data 1711002489553_192.168.56.2_56590
+
+2024-03-21 14:29:35,224 INFO [Client-Delete] Received distro client sync data 1711002489553_192.168.56.2_56590
+
+2024-03-21 14:29:44,969 INFO [Client-Add] Received distro client sync data 1711002583791_192.168.56.2_49936, revision=1
+
+2024-03-21 14:29:44,970 INFO [Client-Add] Received distro client sync data 1711002583791_192.168.56.2_49936, revision=1
+
+2024-03-21 14:29:44,969 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002583791_192.168.56.2_49936
+
+2024-03-21 14:29:44,970 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002583791_192.168.56.2_49936
+
+2024-03-21 14:30:31,395 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-3:8848 unhealthy, key: DistroKey{resourceKey='1711002328326_192.168.56.2_45994', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-3:8848'}
+
+2024-03-21 14:30:31,395 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-1:8848 unhealthy, key: DistroKey{resourceKey='1711002328326_192.168.56.2_45994', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-1:8848'}
+
+2024-03-21 14:30:31,434 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-2:8848 unhealthy, key: DistroKey{resourceKey='1711002308317_192.168.56.2_45474', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-2:8848'}
+
+2024-03-21 14:30:31,435 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-3:8848 unhealthy, key: DistroKey{resourceKey='1711002308317_192.168.56.2_45474', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-3:8848'}
+
+2024-03-21 14:30:31,472 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-2:8848 unhealthy, key: DistroKey{resourceKey='1711002318073_192.168.56.2_49810', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-2:8848'}
+
+2024-03-21 14:30:31,473 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-1:8848 unhealthy, key: DistroKey{resourceKey='1711002318073_192.168.56.2_49810', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-1:8848'}
+
+2024-03-21 14:31:14,090 INFO [Client-Add] Received distro client sync data 1711002671477_192.168.56.7_34134, revision=1
+
+2024-03-21 14:31:14,091 INFO [Client-Add] Received distro client sync data 1711002671477_192.168.56.7_34134, revision=1
+
+2024-03-21 14:31:14,093 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002671477_192.168.56.7_34134
+
+2024-03-21 14:31:14,094 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002671477_192.168.56.7_34134
+
+2024-03-21 14:31:15,712 INFO [Client-Add] Received distro client sync data 1711002674470_192.168.56.7_39168, revision=1
+
+2024-03-21 14:31:15,712 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674470_192.168.56.7_39168
+
+2024-03-21 14:31:15,720 INFO [Client-Add] Received distro client sync data 1711002674470_192.168.56.7_39168, revision=1
+
+2024-03-21 14:31:15,722 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674470_192.168.56.7_39168
+
+2024-03-21 14:31:17,906 INFO [Client-Add] Received distro client sync data 1711002674314_192.168.56.7_39164, revision=1
+
+2024-03-21 14:31:17,907 INFO [Client-Add] Received distro client sync data 1711002674314_192.168.56.7_39164, revision=1
+
+2024-03-21 14:31:17,906 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674314_192.168.56.7_39164
+
+2024-03-21 14:31:17,907 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674314_192.168.56.7_39164
+
+2024-03-21 14:31:18,363 INFO [Client-Add] Received distro client sync data 1711002674392_192.168.56.7_34158, revision=1
+
+2024-03-21 14:31:18,363 INFO [Client-Add] Received distro client sync data 1711002674392_192.168.56.7_34158, revision=1
+
+2024-03-21 14:31:18,363 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674392_192.168.56.7_34158
+
+2024-03-21 14:31:18,363 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674392_192.168.56.7_34158
+
+2024-03-21 14:31:39,423 INFO [Client-Add] Received distro client sync data 1711002674314_192.168.56.7_39164, revision=1
+
+2024-03-21 14:31:39,423 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674314_192.168.56.7_39164
+
+2024-03-21 14:31:39,423 INFO [Client-Add] Received distro client sync data 1711002671477_192.168.56.7_34134, revision=1
+
+2024-03-21 14:31:39,423 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002671477_192.168.56.7_34134
+
+2024-03-21 14:31:39,423 INFO [Client-Add] Received distro client sync data 1711002674470_192.168.56.7_39168, revision=1
+
+2024-03-21 14:31:39,423 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674470_192.168.56.7_39168
+
+2024-03-21 14:31:39,423 INFO [Client-Add] Received distro client sync data 1711002674392_192.168.56.7_34158, revision=1
+
+2024-03-21 14:31:39,423 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674392_192.168.56.7_34158
+
+2024-03-21 14:31:39,775 INFO [Client-Add] Received distro client sync data 1711002674314_192.168.56.7_39164, revision=1
+
+2024-03-21 14:31:39,775 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674314_192.168.56.7_39164
+
+2024-03-21 14:31:39,776 INFO [Client-Add] Received distro client sync data 1711002671477_192.168.56.7_34134, revision=1
+
+2024-03-21 14:31:39,776 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002671477_192.168.56.7_34134
+
+2024-03-21 14:31:39,776 INFO [Client-Add] Received distro client sync data 1711002674470_192.168.56.7_39168, revision=1
+
+2024-03-21 14:31:39,776 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674470_192.168.56.7_39168
+
+2024-03-21 14:31:39,776 INFO [Client-Add] Received distro client sync data 1711002674392_192.168.56.7_34158, revision=1
+
+2024-03-21 14:31:39,776 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674392_192.168.56.7_34158
+
+2024-03-21 14:31:41,212 INFO [Client-Add] Received distro client sync data 1711002674314_192.168.56.7_39164, revision=1
+
+2024-03-21 14:31:41,212 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674314_192.168.56.7_39164
+
+2024-03-21 14:31:41,212 INFO [Client-Add] Received distro client sync data 1711002671477_192.168.56.7_34134, revision=1
+
+2024-03-21 14:31:41,212 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002671477_192.168.56.7_34134
+
+2024-03-21 14:31:41,212 INFO [Client-Add] Received distro client sync data 1711002674470_192.168.56.7_39168, revision=1
+
+2024-03-21 14:31:41,212 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674470_192.168.56.7_39168
+
+2024-03-21 14:31:41,212 INFO [Client-Add] Received distro client sync data 1711002674392_192.168.56.7_34158, revision=1
+
+2024-03-21 14:31:41,212 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002674392_192.168.56.7_34158
+
+2024-03-21 14:32:25,282 INFO [Client-Delete] Received distro client sync data 1711002674314_192.168.56.7_39164
+
+2024-03-21 14:32:25,283 INFO [Client-Delete] Received distro client sync data 1711002674314_192.168.56.7_39164
+
+2024-03-21 14:32:33,382 INFO [Client-Add] Received distro client sync data 1711002752230_192.168.56.7_41340, revision=1
+
+2024-03-21 14:32:33,383 INFO [Client-Add] Received distro client sync data 1711002752230_192.168.56.7_41340, revision=1
+
+2024-03-21 14:32:33,383 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002752230_192.168.56.7_41340
+
+2024-03-21 14:32:33,382 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711002752230_192.168.56.7_41340
+
+2024-03-21 14:36:37,136 INFO [Client-Delete] Received distro client sync data 1711002752230_192.168.56.7_41340
+
+2024-03-21 14:36:37,136 INFO [Client-Delete] Received distro client sync data 1711002752230_192.168.56.7_41340
+
+2024-03-21 14:36:46,515 INFO [Client-Add] Received distro client sync data 1711003005298_192.168.56.7_40516, revision=1
+
+2024-03-21 14:36:46,516 INFO [Client-Add] Received distro client sync data 1711003005298_192.168.56.7_40516, revision=1
+
+2024-03-21 14:36:46,516 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711003005298_192.168.56.7_40516
+
+2024-03-21 14:36:46,516 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711003005298_192.168.56.7_40516
+
+2024-03-21 14:37:17,550 INFO [Client-Delete] Received distro client sync data 1711003005298_192.168.56.7_40516
+
+2024-03-21 14:37:17,551 INFO [Client-Delete] Received distro client sync data 1711003005298_192.168.56.7_40516
+
+2024-03-21 14:37:26,693 INFO [Client-Add] Received distro client sync data 1711003045474_192.168.56.7_34296, revision=1
+
+2024-03-21 14:37:26,693 INFO [Client-Add] Received distro client sync data 1711003045474_192.168.56.7_34296, revision=1
+
+2024-03-21 14:37:26,693 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711003045474_192.168.56.7_34296
+
+2024-03-21 14:37:26,693 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711003045474_192.168.56.7_34296
+
+2024-03-21 14:38:34,961 INFO [Client-Delete] Received distro client sync data 1711003045474_192.168.56.7_34296
+
+2024-03-21 14:38:34,961 INFO [Client-Delete] Received distro client sync data 1711003045474_192.168.56.7_34296
+
+2024-03-21 14:38:43,422 INFO client 1711003123128_192.168.56.7_33920 is invalid, get new client from 192.168.56.3
+
+2024-03-21 14:38:43,422 INFO client 1711003123128_192.168.56.7_33920 is invalid, get new client from 192.168.56.3
+
+2024-03-21 14:38:43,423 INFO Target nacos-server-3:8848 verify client 1711003123128_192.168.56.7_33920 failed, sync new client
+
+2024-03-21 14:38:43,423 INFO Target nacos-server-1:8848 verify client 1711003123128_192.168.56.7_33920 failed, sync new client
+
+2024-03-21 14:38:43,470 INFO [Client-Add] Received distro client sync data 1711003123128_192.168.56.7_33920, revision=1
+
+2024-03-21 14:38:43,470 INFO [Client-Add] Received distro client sync data 1711003123128_192.168.56.7_33920, revision=1
+
+2024-03-21 14:38:43,470 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711003123128_192.168.56.7_33920
+
+2024-03-21 14:38:43,470 INFO [processBatchInstanceDistroData] BatchInstanceData is null , clientId is :1711003123128_192.168.56.7_33920
+
+2024-03-21 22:22:08,560 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-2:8848 unhealthy, key: DistroKey{resourceKey='1711002671477_192.168.56.7_34134', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-2:8848'}
+
+2024-03-21 22:22:08,560 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-3:8848 unhealthy, key: DistroKey{resourceKey='1711002671477_192.168.56.7_34134', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-3:8848'}
+
+2024-03-21 22:22:08,601 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-1:8848 unhealthy, key: DistroKey{resourceKey='1711002674470_192.168.56.7_39168', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-1:8848'}
+
+2024-03-21 22:22:08,602 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-2:8848 unhealthy, key: DistroKey{resourceKey='1711002674470_192.168.56.7_39168', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-2:8848'}
+
+2024-03-21 22:22:08,622 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-1:8848 unhealthy, key: DistroKey{resourceKey='1711003123128_192.168.56.7_33920', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-1:8848'}
+
+2024-03-21 22:22:08,625 WARN [DISTRO] Cancel distro sync caused by target server nacos-server-3:8848 unhealthy, key: DistroKey{resourceKey='1711003123128_192.168.56.7_33920', resourceType='Nacos:Naming:v2:ClientData', targetServer='nacos-server-3:8848'}
+

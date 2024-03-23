@@ -1,0 +1,968 @@
+2024-03-20 00:45:15,872 WARN [master-db] jdbc:mysql://mysql:3306/nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useSSL=false&allowPublicKeyRetrieval=true
+
+2024-03-20 00:45:15,903 ERROR [db-error] master db  down.
+
+2024-03-20 00:45:15,872 WARN [master-db] jdbc:mysql://mysql:3306/nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useSSL=false&allowPublicKeyRetrieval=true
+
+2024-03-20 00:45:15,993 ERROR [db-error] master db  down.
+
+2024-03-20 00:45:25,928 ERROR [db-error] master db  down.
+
+2024-03-20 00:45:26,016 ERROR [db-error] master db  down.
+
+2024-03-20 00:45:35,933 ERROR [db-error] master db  down.
+
+2024-03-20 00:45:36,020 ERROR [db-error] master db  down.
+
+2024-03-20 00:45:45,936 ERROR [db-error] master db  down.
+
+2024-03-20 00:45:46,023 ERROR [db-error] master db  down.
+
+2024-03-20 00:45:55,939 ERROR [db-error] master db  down.
+
+2024-03-20 00:45:56,025 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:05,941 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:06,027 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:15,943 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:16,029 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:25,945 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:26,031 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:35,948 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:36,033 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:45,951 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:46,036 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:55,954 ERROR [db-error] master db  down.
+
+2024-03-20 00:46:56,038 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:05,956 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:06,039 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:15,958 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:16,041 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:25,960 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:26,045 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:35,963 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:36,047 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:45,965 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:46,050 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:55,967 ERROR [db-error] master db  down.
+
+2024-03-20 00:47:56,052 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:05,969 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:06,054 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:15,971 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:16,056 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:25,974 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:26,058 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:35,976 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:36,060 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:45,978 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:46,062 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:55,980 ERROR [db-error] master db  down.
+
+2024-03-20 00:48:56,063 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:05,983 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:06,065 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:15,986 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:16,067 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:25,988 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:26,069 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:35,990 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:36,070 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:45,992 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:46,071 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:55,994 ERROR [db-error] master db  down.
+
+2024-03-20 00:49:56,073 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:05,997 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:06,076 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:15,999 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:16,077 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:26,002 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:26,080 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:36,006 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:36,082 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:46,008 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:46,083 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:56,010 ERROR [db-error] master db  down.
+
+2024-03-20 00:50:56,085 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:06,013 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:06,086 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:16,014 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:16,088 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:26,017 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:26,090 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:36,019 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:36,092 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:46,021 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:46,093 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:56,023 ERROR [db-error] master db  down.
+
+2024-03-20 00:51:56,095 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:06,025 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:06,097 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:16,027 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:16,099 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:26,029 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:26,100 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:36,033 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:36,103 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:46,035 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:46,104 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:56,037 ERROR [db-error] master db  down.
+
+2024-03-20 00:52:56,106 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:06,039 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:06,108 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:16,041 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:16,110 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:26,043 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:26,112 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:36,046 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:36,114 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:46,048 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:46,115 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:56,050 ERROR [db-error] master db  down.
+
+2024-03-20 00:53:56,117 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:06,052 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:06,119 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:16,054 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:16,121 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:26,056 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:26,123 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:36,058 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:36,124 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:46,060 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:46,126 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:56,062 ERROR [db-error] master db  down.
+
+2024-03-20 00:54:56,127 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:06,064 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:06,129 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:16,066 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:16,131 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:26,068 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:26,133 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:36,070 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:36,135 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:46,072 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:46,137 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:56,074 ERROR [db-error] master db  down.
+
+2024-03-20 00:55:56,138 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:06,076 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:06,140 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:16,079 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:16,141 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:26,082 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:26,143 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:36,084 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:36,145 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:46,086 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:46,147 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:56,088 ERROR [db-error] master db  down.
+
+2024-03-20 00:56:56,149 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:06,090 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:06,150 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:16,092 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:16,152 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:26,095 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:26,153 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:36,097 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:36,155 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:46,099 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:46,157 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:56,102 ERROR [db-error] master db  down.
+
+2024-03-20 00:57:56,158 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:06,103 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:06,160 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:16,105 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:16,162 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:26,107 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:26,163 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:36,110 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:36,165 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:46,112 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:46,167 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:56,114 ERROR [db-error] master db  down.
+
+2024-03-20 00:58:56,168 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:06,116 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:06,170 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:16,118 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:16,171 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:26,120 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:26,173 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:36,122 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:36,174 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:46,124 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:46,176 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:56,126 ERROR [db-error] master db  down.
+
+2024-03-20 00:59:56,178 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:06,128 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:06,179 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:16,130 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:16,181 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:26,132 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:26,182 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:36,134 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:36,183 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:46,136 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:46,185 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:56,138 ERROR [db-error] master db  down.
+
+2024-03-20 01:00:56,186 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:06,140 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:06,188 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:16,143 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:16,190 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:26,144 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:26,192 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:36,146 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:36,193 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:46,148 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:46,194 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:56,150 ERROR [db-error] master db  down.
+
+2024-03-20 01:01:56,196 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:06,153 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:06,199 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:16,155 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:16,200 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:26,157 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:26,202 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:36,160 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:36,203 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:46,162 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:46,205 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:56,164 ERROR [db-error] master db  down.
+
+2024-03-20 01:02:56,206 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:06,166 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:06,208 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:16,168 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:16,209 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:26,170 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:26,211 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:36,172 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:36,213 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:46,174 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:46,214 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:56,176 ERROR [db-error] master db  down.
+
+2024-03-20 01:03:56,216 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:06,178 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:06,218 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:16,180 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:16,219 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:26,183 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:26,221 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:36,185 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:36,222 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:46,187 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:46,224 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:56,189 ERROR [db-error] master db  down.
+
+2024-03-20 01:04:56,226 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:06,190 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:06,228 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:16,192 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:16,230 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:26,195 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:26,231 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:36,196 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:36,232 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:46,198 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:46,233 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:56,200 ERROR [db-error] master db  down.
+
+2024-03-20 01:05:56,235 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:06,203 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:06,237 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:16,205 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:16,239 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:26,207 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:26,240 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:36,209 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:36,242 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:46,211 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:46,243 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:56,213 ERROR [db-error] master db  down.
+
+2024-03-20 01:06:56,245 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:06,215 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:06,247 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:16,217 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:16,248 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:26,219 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:26,250 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:36,221 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:36,251 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:46,223 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:46,253 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:56,225 ERROR [db-error] master db  down.
+
+2024-03-20 01:07:56,255 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:06,227 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:06,257 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:16,230 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:16,258 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:26,232 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:26,260 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:36,233 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:36,261 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:46,235 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:46,263 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:56,237 ERROR [db-error] master db  down.
+
+2024-03-20 01:08:56,264 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:06,239 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:06,265 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:16,241 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:16,267 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:26,242 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:26,269 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:36,244 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:36,270 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:46,246 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:46,271 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:56,248 ERROR [db-error] master db  down.
+
+2024-03-20 01:09:56,273 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:06,251 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:06,275 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:16,253 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:16,276 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:26,255 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:26,278 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:36,257 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:36,279 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:46,258 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:46,281 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:56,261 ERROR [db-error] master db  down.
+
+2024-03-20 01:10:56,283 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:06,263 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:06,284 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:16,265 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:16,286 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:26,267 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:26,287 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:36,270 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:36,289 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:46,272 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:46,291 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:56,274 ERROR [db-error] master db  down.
+
+2024-03-20 01:11:56,292 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:06,276 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:06,294 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:16,278 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:16,295 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:26,280 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:26,297 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:36,282 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:36,298 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:46,284 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:46,300 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:56,285 ERROR [db-error] master db  down.
+
+2024-03-20 01:12:56,301 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:06,288 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:06,302 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:16,290 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:16,304 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:26,292 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:26,305 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:36,294 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:36,307 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:46,296 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:46,308 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:56,298 ERROR [db-error] master db  down.
+
+2024-03-20 01:13:56,310 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:06,299 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:06,311 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:16,301 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:16,312 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:26,304 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:26,314 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:36,309 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:36,316 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:46,311 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:46,317 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:56,312 ERROR [db-error] master db  down.
+
+2024-03-20 01:14:56,318 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:06,314 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:06,319 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:16,316 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:16,324 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:26,318 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:26,326 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:36,320 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:36,327 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:46,322 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:46,329 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:56,324 ERROR [db-error] master db  down.
+
+2024-03-20 01:15:56,330 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:06,326 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:06,331 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:16,328 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:16,333 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:26,330 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:26,334 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:36,332 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:36,335 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:46,334 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:46,336 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:56,336 ERROR [db-error] master db  down.
+
+2024-03-20 01:16:56,338 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:06,338 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:06,339 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:16,340 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:16,340 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:26,342 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:26,342 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:36,344 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:36,344 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:46,346 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:46,346 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:56,348 ERROR [db-error] master db  down.
+
+2024-03-20 01:17:56,348 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:06,350 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:06,350 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:16,352 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:16,352 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:26,354 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:26,354 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:36,356 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:36,356 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:46,358 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:46,358 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:56,360 ERROR [db-error] master db  down.
+
+2024-03-20 01:18:56,360 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:06,362 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:06,362 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:16,364 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:16,364 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:26,366 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:26,367 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:36,368 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:36,368 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:46,371 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:46,371 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:56,373 ERROR [db-error] master db  down.
+
+2024-03-20 01:19:56,373 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:06,376 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:06,375 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:16,377 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:16,377 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:26,380 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:26,379 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:36,381 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:36,381 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:46,383 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:46,384 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:56,385 ERROR [db-error] master db  down.
+
+2024-03-20 01:20:56,385 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:06,388 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:06,388 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:16,390 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:16,390 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:26,392 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:26,392 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:36,443 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:36,443 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:47,099 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:47,098 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:57,278 ERROR [db-error] master db  down.
+
+2024-03-20 01:21:57,161 ERROR [db-error] master db  down.
+
+2024-03-20 01:22:09,200 ERROR [db-error] master db  down.
+
+2024-03-20 01:22:09,202 ERROR [db-error] master db  down.
+
+2024-03-20 01:22:19,426 ERROR [db-error] master db  down.
+
+2024-03-20 01:22:19,425 ERROR [db-error] master db  down.
+
+2024-03-20 01:22:29,458 ERROR [db-error] master db  down.
+
+2024-03-20 01:22:29,451 ERROR [db-error] master db  down.
+
+2024-03-20 01:22:39,304 ERROR [db-error] master db  down.
+
+2024-03-20 01:22:39,900 ERROR [db-error] master db  down.
+
+2024-03-20 01:22:51,806 ERROR [db-error] master db  down.
+
+2024-03-20 01:22:51,803 ERROR [db-error] master db  down.
+
+2024-03-20 01:23:02,389 ERROR [db-error] master db  down.
+
+2024-03-20 01:23:02,116 ERROR [db-error] master db  down.
+
+2024-03-20 01:23:13,094 ERROR [db-error] master db  down.
+
+2024-03-20 01:23:13,096 ERROR [db-error] master db  down.
+
+2024-03-20 01:23:24,974 ERROR [db-error] master db  down.
+
+2024-03-20 01:23:24,972 ERROR [db-error] master db  down.
+
+2024-03-20 01:23:38,296 ERROR [db-error] master db  down.
+
+2024-03-20 01:23:40,470 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:00,115 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:00,119 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:10,117 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:10,118 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:20,119 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:20,120 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:30,121 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:30,122 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:40,122 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:40,123 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:50,124 ERROR [db-error] master db  down.
+
+2024-03-20 01:24:50,124 ERROR [db-error] master db  down.
+
+2024-03-20 01:25:00,126 ERROR [db-error] master db  down.
+
+2024-03-20 01:25:00,126 ERROR [db-error] master db  down.
+
+2024-03-20 01:25:10,128 ERROR [db-error] master db  down.
+
+2024-03-20 01:25:10,129 ERROR [db-error] master db  down.
+
+2024-03-20 01:25:20,130 ERROR [db-error] master db  down.
+
+2024-03-20 01:25:20,130 ERROR [db-error] master db  down.
+
+2024-03-20 01:25:30,132 ERROR [db-error] master db  down.
+
+2024-03-20 01:25:30,132 ERROR [db-error] master db  down.
+
+2024-03-20 01:25:40,134 ERROR [db-error] master db  down.
+
+2024-03-20 01:25:40,134 ERROR [db-error] master db  down.
+

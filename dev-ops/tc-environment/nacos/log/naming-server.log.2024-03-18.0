@@ -1,0 +1,682 @@
+2024-03-18 13:31:57,358 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-18 13:31:57,361 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-18 13:31:57,361 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-18 13:32:01,962 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-18 13:32:01,962 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-18 13:32:01,963 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-18 13:32:01,963 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-18 13:32:02,291 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-18 13:32:02,291 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-18 13:32:02,292 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-18 13:32:02,292 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-18 13:32:02,574 INFO Load instance extension handler []
+
+2024-03-18 13:32:02,831 INFO Load instance extension handler []
+
+2024-03-18 13:32:04,538 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-18 13:32:04,538 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-18 13:32:04,540 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-18 13:32:04,540 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-18 13:32:05,033 INFO Load instance extension handler []
+
+2024-03-18 13:32:09,916 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-18 13:32:09,940 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-18 13:32:10,078 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-18 13:32:10,088 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-18 13:32:11,940 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-18 13:32:11,943 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-18 13:49:47,077 INFO Client connection 1710740987022_192.168.56.8_46922 connect
+
+2024-03-18 13:49:47,202 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1710740987022_192.168.56.8_46922
+
+2024-03-18 13:49:48,251 INFO Client connection 1710740987022_192.168.56.8_46922 connect
+
+2024-03-18 13:49:48,252 INFO Client connection 1710740987022_192.168.56.8_46922 connect
+
+2024-03-18 13:49:48,256 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1710740987022_192.168.56.8_46922
+
+2024-03-18 13:49:48,257 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1710740987022_192.168.56.8_46922
+
+2024-03-18 13:50:00,261 INFO Client connection 1710740998126_192.168.56.8_55146 disconnect, remove instances and subscribers
+
+2024-03-18 13:50:02,974 INFO Client connection 1710741001116_192.168.56.8_44564 disconnect, remove instances and subscribers
+
+2024-03-18 13:55:14,455 INFO Client connection 1710741310920_192.168.56.8_50780 disconnect, remove instances and subscribers
+
+2024-03-18 13:56:50,837 INFO Client connection 1710741409082_192.168.56.8_42798 disconnect, remove instances and subscribers
+
+2024-03-18 13:59:12,371 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=1}, 1710740987022_192.168.56.8_46922
+
+2024-03-18 13:59:12,381 INFO Client connection 1710740987022_192.168.56.8_46922 disconnect, remove instances and subscribers
+
+2024-03-18 13:59:13,406 INFO Client connection 1710740987022_192.168.56.8_46922 disconnect, remove instances and subscribers
+
+2024-03-18 13:59:13,406 INFO Client connection 1710740987022_192.168.56.8_46922 disconnect, remove instances and subscribers
+
+2024-03-18 13:59:21,753 INFO Client connection 1710741561698_192.168.56.8_54220 connect
+
+2024-03-18 13:59:21,868 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=2}, 1710741561698_192.168.56.8_54220
+
+2024-03-18 13:59:22,900 INFO Client connection 1710741561698_192.168.56.8_54220 connect
+
+2024-03-18 13:59:22,901 INFO Client connection 1710741561698_192.168.56.8_54220 connect
+
+2024-03-18 13:59:22,901 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=2}, 1710741561698_192.168.56.8_54220
+
+2024-03-18 13:59:22,913 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=2}, 1710741561698_192.168.56.8_54220
+
+2024-03-18 13:59:36,950 INFO Client connection 1710741575200_192.168.56.8_59336 disconnect, remove instances and subscribers
+
+2024-03-18 14:02:16,060 INFO Client connection 1710741732790_192.168.56.8_48548 disconnect, remove instances and subscribers
+
+2024-03-18 14:06:13,377 INFO Client connection 1710741970275_192.168.56.8_53522 disconnect, remove instances and subscribers
+
+2024-03-18 14:06:41,859 INFO Client connection 1710741998767_192.168.56.8_51158 disconnect, remove instances and subscribers
+
+2024-03-18 14:08:26,007 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=3}, 1710741561698_192.168.56.8_54220
+
+2024-03-18 14:08:26,016 INFO Client connection 1710741561698_192.168.56.8_54220 disconnect, remove instances and subscribers
+
+2024-03-18 14:08:27,019 INFO Client connection 1710741561698_192.168.56.8_54220 disconnect, remove instances and subscribers
+
+2024-03-18 14:08:27,019 INFO Client connection 1710741561698_192.168.56.8_54220 disconnect, remove instances and subscribers
+
+2024-03-18 14:08:34,006 INFO Client connection 1710742113953_192.168.56.8_41106 connect
+
+2024-03-18 14:08:34,130 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=4}, 1710742113953_192.168.56.8_41106
+
+2024-03-18 14:08:35,217 INFO Client connection 1710742113953_192.168.56.8_41106 connect
+
+2024-03-18 14:08:35,217 INFO Client connection 1710742113953_192.168.56.8_41106 connect
+
+2024-03-18 14:08:35,217 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=4}, 1710742113953_192.168.56.8_41106
+
+2024-03-18 14:08:35,217 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=4}, 1710742113953_192.168.56.8_41106
+
+2024-03-18 14:10:26,844 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=5}, 1710742113953_192.168.56.8_41106
+
+2024-03-18 14:10:26,853 INFO Client connection 1710742113953_192.168.56.8_41106 disconnect, remove instances and subscribers
+
+2024-03-18 14:10:27,944 INFO Client connection 1710742113953_192.168.56.8_41106 disconnect, remove instances and subscribers
+
+2024-03-18 14:10:27,944 INFO Client connection 1710742113953_192.168.56.8_41106 disconnect, remove instances and subscribers
+
+2024-03-18 14:10:36,385 INFO Client connection 1710742236332_192.168.56.8_42074 connect
+
+2024-03-18 14:10:36,496 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=6}, 1710742236332_192.168.56.8_42074
+
+2024-03-18 14:10:37,567 INFO Client connection 1710742236332_192.168.56.8_42074 connect
+
+2024-03-18 14:10:37,567 INFO Client connection 1710742236332_192.168.56.8_42074 connect
+
+2024-03-18 14:10:37,568 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=6}, 1710742236332_192.168.56.8_42074
+
+2024-03-18 14:10:37,567 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=6}, 1710742236332_192.168.56.8_42074
+
+2024-03-18 14:13:09,057 INFO Client connection 1710742388053_192.168.56.8_44976 disconnect, remove instances and subscribers
+
+2024-03-18 14:13:35,367 INFO Client connection 1710742412276_192.168.56.8_40996 disconnect, remove instances and subscribers
+
+2024-03-18 14:14:48,197 INFO Client connection 1710742487185_192.168.56.8_49546 disconnect, remove instances and subscribers
+
+2024-03-18 14:16:50,780 INFO Client connection 1710742609770_192.168.56.8_56096 disconnect, remove instances and subscribers
+
+2024-03-18 14:36:32,479 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=7}, 1710742236332_192.168.56.8_42074
+
+2024-03-18 14:36:32,487 INFO Client connection 1710742236332_192.168.56.8_42074 disconnect, remove instances and subscribers
+
+2024-03-18 14:36:33,545 INFO Client connection 1710742236332_192.168.56.8_42074 disconnect, remove instances and subscribers
+
+2024-03-18 14:36:33,545 INFO Client connection 1710742236332_192.168.56.8_42074 disconnect, remove instances and subscribers
+
+2024-03-18 14:36:41,238 INFO Client connection 1710743801183_192.168.56.8_56940 connect
+
+2024-03-18 14:36:41,358 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=8}, 1710743801183_192.168.56.8_56940
+
+2024-03-18 14:36:42,356 INFO Client connection 1710743801183_192.168.56.8_56940 connect
+
+2024-03-18 14:36:42,357 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=8}, 1710743801183_192.168.56.8_56940
+
+2024-03-18 14:36:42,357 INFO Client connection 1710743801183_192.168.56.8_56940 connect
+
+2024-03-18 14:36:42,357 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=8}, 1710743801183_192.168.56.8_56940
+
+2024-03-18 14:36:48,441 INFO Client connection 1710743805145_192.168.56.8_40706 disconnect, remove instances and subscribers
+
+2024-03-18 14:42:35,440 INFO Client connection 1710744154447_192.168.56.8_55598 disconnect, remove instances and subscribers
+
+2024-03-18 14:52:57,624 INFO Client connection 1710744775754_192.168.56.8_57880 disconnect, remove instances and subscribers
+
+2024-03-18 14:54:41,910 INFO Client connection 1710744878816_192.168.56.8_57866 disconnect, remove instances and subscribers
+
+2024-03-18 14:56:38,860 INFO Client connection 1710744995769_192.168.56.8_54660 disconnect, remove instances and subscribers
+
+2024-03-18 14:57:18,688 INFO Client connection 1710745035447_192.168.56.8_34176 disconnect, remove instances and subscribers
+
+2024-03-18 14:59:22,082 INFO Client connection 1710745158836_192.168.56.8_50660 disconnect, remove instances and subscribers
+
+2024-03-18 15:00:58,207 INFO Client connection 1710745254923_192.168.56.8_51334 disconnect, remove instances and subscribers
+
+2024-03-18 15:05:56,804 INFO Client connection 1710745553520_192.168.56.8_38226 disconnect, remove instances and subscribers
+
+2024-03-18 15:15:47,541 INFO Client connection 1710746144618_192.168.56.8_34696 disconnect, remove instances and subscribers
+
+2024-03-18 15:19:24,781 INFO Client connection 1710746361472_192.168.56.8_35182 disconnect, remove instances and subscribers
+
+2024-03-18 15:22:11,004 INFO Client connection 1710746527689_192.168.56.8_41520 disconnect, remove instances and subscribers
+
+2024-03-18 15:23:53,412 INFO Client connection 1710746633407_192.168.56.8_53358 connect
+
+2024-03-18 15:23:53,522 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710746633407_192.168.56.8_53358
+
+2024-03-18 15:23:54,539 INFO Client connection 1710746633407_192.168.56.8_53358 connect
+
+2024-03-18 15:23:54,539 INFO Client connection 1710746633407_192.168.56.8_53358 connect
+
+2024-03-18 15:23:54,539 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710746633407_192.168.56.8_53358
+
+2024-03-18 15:23:54,539 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710746633407_192.168.56.8_53358
+
+2024-03-18 15:24:11,491 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=1}, 1710746633407_192.168.56.8_53358
+
+2024-03-18 15:24:11,500 INFO Client connection 1710746633407_192.168.56.8_53358 disconnect, remove instances and subscribers
+
+2024-03-18 15:24:12,023 INFO Client connection 1710746629210_192.168.56.8_51802 disconnect, remove instances and subscribers
+
+2024-03-18 15:24:12,560 INFO Client connection 1710746633407_192.168.56.8_53358 disconnect, remove instances and subscribers
+
+2024-03-18 15:24:12,560 INFO Client connection 1710746633407_192.168.56.8_53358 disconnect, remove instances and subscribers
+
+2024-03-18 15:24:19,016 INFO Client connection 1710746659011_192.168.56.8_34620 connect
+
+2024-03-18 15:24:19,135 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1710746659011_192.168.56.8_34620
+
+2024-03-18 15:24:19,378 INFO Client connection 1710746659011_192.168.56.8_34620 connect
+
+2024-03-18 15:24:19,378 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1710746659011_192.168.56.8_34620
+
+2024-03-18 15:24:19,378 INFO Client connection 1710746659011_192.168.56.8_34620 connect
+
+2024-03-18 15:24:19,378 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1710746659011_192.168.56.8_34620
+
+2024-03-18 15:34:04,644 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=9}, 1710743801183_192.168.56.8_56940
+
+2024-03-18 15:34:04,655 INFO Client connection 1710743801183_192.168.56.8_56940 disconnect, remove instances and subscribers
+
+2024-03-18 15:34:05,733 INFO Client connection 1710743801183_192.168.56.8_56940 disconnect, remove instances and subscribers
+
+2024-03-18 15:34:05,733 INFO Client connection 1710743801183_192.168.56.8_56940 disconnect, remove instances and subscribers
+
+2024-03-18 15:34:08,536 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=3}, 1710746659011_192.168.56.8_34620
+
+2024-03-18 15:34:08,546 INFO Client connection 1710746659011_192.168.56.8_34620 disconnect, remove instances and subscribers
+
+2024-03-18 15:34:09,058 INFO Client connection 1710746654961_192.168.56.8_57698 disconnect, remove instances and subscribers
+
+2024-03-18 15:34:09,553 INFO Client connection 1710746659011_192.168.56.8_34620 disconnect, remove instances and subscribers
+
+2024-03-18 15:34:09,553 INFO Client connection 1710746659011_192.168.56.8_34620 disconnect, remove instances and subscribers
+
+2024-03-18 15:35:32,217 WARN namespace : public, [DEFAULT_GROUP@@tc-gateway] services are automatically cleaned
+
+2024-03-18 15:35:32,217 WARN namespace : public, [DEFAULT_GROUP@@tc-server] services are automatically cleaned
+
+2024-03-18 15:35:32,575 WARN namespace : public, [DEFAULT_GROUP@@tc-gateway] services are automatically cleaned
+
+2024-03-18 15:35:32,575 WARN namespace : public, [DEFAULT_GROUP@@tc-server] services are automatically cleaned
+
+2024-03-18 15:35:34,767 WARN namespace : public, [DEFAULT_GROUP@@tc-gateway] services are automatically cleaned
+
+2024-03-18 15:35:34,767 WARN namespace : public, [DEFAULT_GROUP@@tc-server] services are automatically cleaned
+
+2024-03-18 15:36:13,502 INFO Client connection 1710747373497_192.168.56.8_47864 connect
+
+2024-03-18 15:36:13,610 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710747373497_192.168.56.8_47864
+
+2024-03-18 15:36:14,694 INFO Client connection 1710747373497_192.168.56.8_47864 connect
+
+2024-03-18 15:36:14,694 INFO Client connection 1710747373497_192.168.56.8_47864 connect
+
+2024-03-18 15:36:14,694 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710747373497_192.168.56.8_47864
+
+2024-03-18 15:36:14,694 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710747373497_192.168.56.8_47864
+
+2024-03-18 15:38:22,137 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=1}, 1710747373497_192.168.56.8_47864
+
+2024-03-18 15:38:22,145 INFO Client connection 1710747373497_192.168.56.8_47864 disconnect, remove instances and subscribers
+
+2024-03-18 15:38:22,660 INFO Client connection 1710747369251_192.168.56.8_58480 disconnect, remove instances and subscribers
+
+2024-03-18 15:38:23,147 INFO Client connection 1710747373497_192.168.56.8_47864 disconnect, remove instances and subscribers
+
+2024-03-18 15:38:23,147 INFO Client connection 1710747373497_192.168.56.8_47864 disconnect, remove instances and subscribers
+
+2024-03-18 15:38:29,604 INFO Client connection 1710747509598_192.168.56.8_35782 connect
+
+2024-03-18 15:38:29,719 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1710747509598_192.168.56.8_35782
+
+2024-03-18 15:38:30,755 INFO Client connection 1710747509598_192.168.56.8_35782 connect
+
+2024-03-18 15:38:30,755 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1710747509598_192.168.56.8_35782
+
+2024-03-18 15:38:30,755 INFO Client connection 1710747509598_192.168.56.8_35782 connect
+
+2024-03-18 15:38:30,755 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1710747509598_192.168.56.8_35782
+
+2024-03-18 15:41:06,398 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=3}, 1710747509598_192.168.56.8_35782
+
+2024-03-18 15:41:06,406 INFO Client connection 1710747509598_192.168.56.8_35782 disconnect, remove instances and subscribers
+
+2024-03-18 15:41:06,921 INFO Client connection 1710747505441_192.168.56.8_54650 disconnect, remove instances and subscribers
+
+2024-03-18 15:41:07,431 INFO Client connection 1710747509598_192.168.56.8_35782 disconnect, remove instances and subscribers
+
+2024-03-18 15:41:07,432 INFO Client connection 1710747509598_192.168.56.8_35782 disconnect, remove instances and subscribers
+
+2024-03-18 15:41:13,916 INFO Client connection 1710747673911_192.168.56.8_51370 connect
+
+2024-03-18 15:41:14,028 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1710747673911_192.168.56.8_51370
+
+2024-03-18 15:41:14,439 INFO Client connection 1710747673911_192.168.56.8_51370 connect
+
+2024-03-18 15:41:14,439 INFO Client connection 1710747673911_192.168.56.8_51370 connect
+
+2024-03-18 15:41:14,439 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1710747673911_192.168.56.8_51370
+
+2024-03-18 15:41:14,439 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1710747673911_192.168.56.8_51370
+
+2024-03-18 15:42:07,033 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=5}, 1710747673911_192.168.56.8_51370
+
+2024-03-18 15:42:07,042 INFO Client connection 1710747673911_192.168.56.8_51370 disconnect, remove instances and subscribers
+
+2024-03-18 15:42:07,561 INFO Client connection 1710747669712_192.168.56.8_38906 disconnect, remove instances and subscribers
+
+2024-03-18 15:42:08,101 INFO Client connection 1710747673911_192.168.56.8_51370 disconnect, remove instances and subscribers
+
+2024-03-18 15:42:08,101 INFO Client connection 1710747673911_192.168.56.8_51370 disconnect, remove instances and subscribers
+
+2024-03-18 15:42:14,607 INFO Client connection 1710747734601_192.168.56.8_47518 connect
+
+2024-03-18 15:42:14,716 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1710747734601_192.168.56.8_47518
+
+2024-03-18 15:42:15,809 INFO Client connection 1710747734601_192.168.56.8_47518 connect
+
+2024-03-18 15:42:15,810 INFO Client connection 1710747734601_192.168.56.8_47518 connect
+
+2024-03-18 15:42:15,809 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1710747734601_192.168.56.8_47518
+
+2024-03-18 15:42:15,810 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1710747734601_192.168.56.8_47518
+
+2024-03-18 15:42:21,104 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=7}, 1710747734601_192.168.56.8_47518
+
+2024-03-18 15:42:21,437 INFO Client connection 1710747734601_192.168.56.8_47518 disconnect, remove instances and subscribers
+
+2024-03-18 15:42:21,941 INFO Client connection 1710747730314_192.168.56.8_36114 disconnect, remove instances and subscribers
+
+2024-03-18 15:42:22,113 INFO Client connection 1710747734601_192.168.56.8_47518 disconnect, remove instances and subscribers
+
+2024-03-18 15:42:22,114 INFO Client connection 1710747734601_192.168.56.8_47518 disconnect, remove instances and subscribers
+
+2024-03-18 15:43:24,641 INFO Client connection 1710747804636_192.168.56.8_35148 connect
+
+2024-03-18 15:43:24,747 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=8}, 1710747804636_192.168.56.8_35148
+
+2024-03-18 15:43:25,786 INFO Client connection 1710747804636_192.168.56.8_35148 connect
+
+2024-03-18 15:43:25,787 INFO Client connection 1710747804636_192.168.56.8_35148 connect
+
+2024-03-18 15:43:25,786 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=8}, 1710747804636_192.168.56.8_35148
+
+2024-03-18 15:43:25,787 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=8}, 1710747804636_192.168.56.8_35148
+
+2024-03-18 15:43:27,786 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=9}, 1710747804636_192.168.56.8_35148
+
+2024-03-18 15:43:28,118 INFO Client connection 1710747804636_192.168.56.8_35148 disconnect, remove instances and subscribers
+
+2024-03-18 15:43:28,630 INFO Client connection 1710747800356_192.168.56.8_58838 disconnect, remove instances and subscribers
+
+2024-03-18 15:43:28,789 INFO Client connection 1710747804636_192.168.56.8_35148 disconnect, remove instances and subscribers
+
+2024-03-18 15:43:28,789 INFO Client connection 1710747804636_192.168.56.8_35148 disconnect, remove instances and subscribers
+
+2024-03-18 15:44:32,220 WARN namespace : public, [DEFAULT_GROUP@@tc-server] services are automatically cleaned
+
+2024-03-18 15:44:32,577 WARN namespace : public, [DEFAULT_GROUP@@tc-server] services are automatically cleaned
+
+2024-03-18 15:44:34,769 WARN namespace : public, [DEFAULT_GROUP@@tc-server] services are automatically cleaned
+
+2024-03-18 15:46:29,400 INFO Client connection 1710747989392_192.168.56.8_60968 connect
+
+2024-03-18 15:46:29,516 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710747989392_192.168.56.8_60968
+
+2024-03-18 15:46:30,593 INFO Client connection 1710747989392_192.168.56.8_60968 connect
+
+2024-03-18 15:46:30,593 INFO Client connection 1710747989392_192.168.56.8_60968 connect
+
+2024-03-18 15:46:30,593 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710747989392_192.168.56.8_60968
+
+2024-03-18 15:46:30,593 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710747989392_192.168.56.8_60968
+
+2024-03-18 15:46:32,598 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=1}, 1710747989392_192.168.56.8_60968
+
+2024-03-18 15:46:32,914 INFO Client connection 1710747989392_192.168.56.8_60968 disconnect, remove instances and subscribers
+
+2024-03-18 15:46:33,259 INFO Client connection 1710747985112_192.168.56.8_43830 disconnect, remove instances and subscribers
+
+2024-03-18 15:46:33,696 INFO Client connection 1710747989392_192.168.56.8_60968 disconnect, remove instances and subscribers
+
+2024-03-18 15:46:33,697 INFO Client connection 1710747989392_192.168.56.8_60968 disconnect, remove instances and subscribers
+
+2024-03-18 15:47:34,769 WARN namespace : public, [DEFAULT_GROUP@@tc-server] services are automatically cleaned
+
+2024-03-18 15:48:32,221 WARN namespace : public, [DEFAULT_GROUP@@tc-server] services are automatically cleaned
+
+2024-03-18 15:48:32,578 WARN namespace : public, [DEFAULT_GROUP@@tc-server] services are automatically cleaned
+
+2024-03-18 16:04:59,743 INFO Client connection 1710749096384_192.168.56.8_52620 disconnect, remove instances and subscribers
+
+2024-03-18 16:14:36,744 INFO Client connection 1710749673419_192.168.56.8_51506 disconnect, remove instances and subscribers
+
+2024-03-18 16:15:37,811 INFO Client connection 1710749734673_192.168.56.8_55004 disconnect, remove instances and subscribers
+
+2024-03-18 16:16:20,539 INFO Client connection 1710749777357_192.168.56.8_59258 disconnect, remove instances and subscribers
+
+2024-03-18 16:20:12,849 INFO Client connection 1710750009713_192.168.56.8_51362 disconnect, remove instances and subscribers
+
+2024-03-18 16:21:01,692 INFO Client connection 1710750058639_192.168.56.8_58820 disconnect, remove instances and subscribers
+
+2024-03-18 16:30:05,639 INFO Client connection 1710750602580_192.168.56.8_36282 disconnect, remove instances and subscribers
+
+2024-03-18 16:30:37,352 INFO Client connection 1710750634099_192.168.56.8_35566 disconnect, remove instances and subscribers
+
+2024-03-18 16:32:53,115 INFO Client connection 1710750769894_192.168.56.8_60058 disconnect, remove instances and subscribers
+
+2024-03-18 16:33:23,005 INFO Client connection 1710750799747_192.168.56.8_41694 disconnect, remove instances and subscribers
+
+2024-03-18 16:33:53,714 INFO Client connection 1710750830432_192.168.56.8_35144 disconnect, remove instances and subscribers
+
+2024-03-18 16:36:01,468 INFO Client connection 1710750958226_192.168.56.8_50228 disconnect, remove instances and subscribers
+
+2024-03-18 16:36:50,256 INFO Client connection 1710751007022_192.168.56.8_38962 disconnect, remove instances and subscribers
+
+2024-03-18 17:11:30,374 INFO Client connection 1710753087110_192.168.56.8_55800 disconnect, remove instances and subscribers
+
+2024-03-18 18:13:04,720 INFO Client connection 1710756781282_192.168.56.8_46418 disconnect, remove instances and subscribers
+
+2024-03-18 18:23:35,771 INFO Client connection 1710757412403_192.168.56.8_57222 disconnect, remove instances and subscribers
+
+2024-03-18 18:24:15,129 INFO Client connection 1710757451748_192.168.56.8_43620 disconnect, remove instances and subscribers
+
+2024-03-18 18:25:05,423 INFO Client connection 1710757502013_192.168.56.8_42314 disconnect, remove instances and subscribers
+
+2024-03-18 18:26:14,879 INFO Client connection 1710757571439_192.168.56.8_32804 disconnect, remove instances and subscribers
+
+2024-03-18 18:29:04,689 INFO Client connection 1710757741287_192.168.56.8_43936 disconnect, remove instances and subscribers
+
+2024-03-18 18:31:33,805 INFO Client connection 1710757890423_192.168.56.8_49332 disconnect, remove instances and subscribers
+
+2024-03-18 18:50:51,768 INFO Client connection 1710759048432_192.168.56.8_53318 disconnect, remove instances and subscribers
+
+2024-03-18 18:53:32,440 INFO Client connection 1710759212434_192.168.56.8_49210 connect
+
+2024-03-18 18:53:32,553 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710759212434_192.168.56.8_49210
+
+2024-03-18 18:53:33,577 INFO Client connection 1710759212434_192.168.56.8_49210 connect
+
+2024-03-18 18:53:33,577 INFO Client connection 1710759212434_192.168.56.8_49210 connect
+
+2024-03-18 18:53:33,577 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710759212434_192.168.56.8_49210
+
+2024-03-18 18:53:33,577 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1710759212434_192.168.56.8_49210
+
+2024-03-18 18:54:38,627 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=1}, 1710759212434_192.168.56.8_49210
+
+2024-03-18 18:54:38,636 INFO Client connection 1710759212434_192.168.56.8_49210 disconnect, remove instances and subscribers
+
+2024-03-18 18:54:39,155 INFO Client connection 1710759208272_192.168.56.8_38914 disconnect, remove instances and subscribers
+
+2024-03-18 18:54:39,652 INFO Client connection 1710759212434_192.168.56.8_49210 disconnect, remove instances and subscribers
+
+2024-03-18 18:54:39,652 INFO Client connection 1710759212434_192.168.56.8_49210 disconnect, remove instances and subscribers
+
+2024-03-18 18:54:46,322 INFO Client connection 1710759286317_192.168.56.8_47982 connect
+
+2024-03-18 18:54:46,436 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1710759286317_192.168.56.8_47982
+
+2024-03-18 18:54:47,521 INFO Client connection 1710759286317_192.168.56.8_47982 connect
+
+2024-03-18 18:54:47,522 INFO Client connection 1710759286317_192.168.56.8_47982 connect
+
+2024-03-18 18:54:47,521 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1710759286317_192.168.56.8_47982
+
+2024-03-18 18:54:47,522 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1710759286317_192.168.56.8_47982
+
+2024-03-18 18:54:51,884 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=3}, 1710759286317_192.168.56.8_47982
+
+2024-03-18 18:54:52,217 INFO Client connection 1710759286317_192.168.56.8_47982 disconnect, remove instances and subscribers
+
+2024-03-18 18:54:52,726 INFO Client connection 1710759281991_192.168.56.8_54490 disconnect, remove instances and subscribers
+
+2024-03-18 18:54:52,926 INFO Client connection 1710759286317_192.168.56.8_47982 disconnect, remove instances and subscribers
+
+2024-03-18 18:54:52,927 INFO Client connection 1710759286317_192.168.56.8_47982 disconnect, remove instances and subscribers
+
+2024-03-18 18:54:59,547 INFO Client connection 1710759299542_192.168.56.8_51018 connect
+
+2024-03-18 18:54:59,666 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1710759299542_192.168.56.8_51018
+
+2024-03-18 18:55:00,733 INFO Client connection 1710759299542_192.168.56.8_51018 connect
+
+2024-03-18 18:55:00,733 INFO Client connection 1710759299542_192.168.56.8_51018 connect
+
+2024-03-18 18:55:00,733 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1710759299542_192.168.56.8_51018
+
+2024-03-18 18:55:00,733 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1710759299542_192.168.56.8_51018
+
+2024-03-18 18:55:30,971 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=5}, 1710759299542_192.168.56.8_51018
+
+2024-03-18 18:55:30,979 INFO Client connection 1710759299542_192.168.56.8_51018 disconnect, remove instances and subscribers
+
+2024-03-18 18:55:31,502 INFO Client connection 1710759295417_192.168.56.8_56572 disconnect, remove instances and subscribers
+
+2024-03-18 18:55:32,066 INFO Client connection 1710759299542_192.168.56.8_51018 disconnect, remove instances and subscribers
+
+2024-03-18 18:55:32,067 INFO Client connection 1710759299542_192.168.56.8_51018 disconnect, remove instances and subscribers
+
+2024-03-18 18:55:38,747 INFO Client connection 1710759338741_192.168.56.8_34812 connect
+
+2024-03-18 18:55:38,860 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1710759338741_192.168.56.8_34812
+
+2024-03-18 18:55:39,915 INFO Client connection 1710759338741_192.168.56.8_34812 connect
+
+2024-03-18 18:55:39,915 INFO Client connection 1710759338741_192.168.56.8_34812 connect
+
+2024-03-18 18:55:39,915 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1710759338741_192.168.56.8_34812
+
+2024-03-18 18:55:39,915 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1710759338741_192.168.56.8_34812
+
+2024-03-18 18:56:48,676 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=7}, 1710759338741_192.168.56.8_34812
+
+2024-03-18 18:56:48,684 INFO Client connection 1710759338741_192.168.56.8_34812 disconnect, remove instances and subscribers
+
+2024-03-18 18:56:49,197 INFO Client connection 1710759334597_192.168.56.8_49308 disconnect, remove instances and subscribers
+
+2024-03-18 18:56:49,697 INFO Client connection 1710759338741_192.168.56.8_34812 disconnect, remove instances and subscribers
+
+2024-03-18 18:56:49,697 INFO Client connection 1710759338741_192.168.56.8_34812 disconnect, remove instances and subscribers
+
+2024-03-18 18:56:56,052 INFO Client connection 1710759416046_192.168.56.8_52398 connect
+
+2024-03-18 18:56:56,162 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=8}, 1710759416046_192.168.56.8_52398
+
+2024-03-18 18:56:57,164 INFO Client connection 1710759416046_192.168.56.8_52398 connect
+
+2024-03-18 18:56:57,164 INFO Client connection 1710759416046_192.168.56.8_52398 connect
+
+2024-03-18 18:56:57,164 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=8}, 1710759416046_192.168.56.8_52398
+
+2024-03-18 18:56:57,164 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=8}, 1710759416046_192.168.56.8_52398
+
+2024-03-18 19:02:06,895 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=9}, 1710759416046_192.168.56.8_52398
+
+2024-03-18 19:02:06,905 INFO Client connection 1710759416046_192.168.56.8_52398 disconnect, remove instances and subscribers
+
+2024-03-18 19:02:07,433 INFO Client connection 1710759411904_192.168.56.8_40016 disconnect, remove instances and subscribers
+
+2024-03-18 19:02:07,929 INFO Client connection 1710759416046_192.168.56.8_52398 disconnect, remove instances and subscribers
+
+2024-03-18 19:02:07,931 INFO Client connection 1710759416046_192.168.56.8_52398 disconnect, remove instances and subscribers
+
+2024-03-18 19:02:14,247 INFO Client connection 1710759734241_192.168.56.8_34060 connect
+
+2024-03-18 19:02:14,354 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=10}, 1710759734241_192.168.56.8_34060
+
+2024-03-18 19:02:15,437 INFO Client connection 1710759734241_192.168.56.8_34060 connect
+
+2024-03-18 19:02:15,437 INFO Client connection 1710759734241_192.168.56.8_34060 connect
+
+2024-03-18 19:02:15,437 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=10}, 1710759734241_192.168.56.8_34060
+
+2024-03-18 19:02:15,437 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=10}, 1710759734241_192.168.56.8_34060
+
+2024-03-18 19:03:19,191 INFO Client connection 1710759799136_192.168.56.8_42990 connect
+
+2024-03-18 19:03:19,302 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1710759799136_192.168.56.8_42990
+
+2024-03-18 19:03:19,512 INFO Client connection 1710759799136_192.168.56.8_42990 connect
+
+2024-03-18 19:03:19,512 INFO Client connection 1710759799136_192.168.56.8_42990 connect
+
+2024-03-18 19:03:19,512 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1710759799136_192.168.56.8_42990
+
+2024-03-18 19:03:19,512 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1710759799136_192.168.56.8_42990
+
+2024-03-18 19:12:10,005 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=1}, 1710759799136_192.168.56.8_42990
+
+2024-03-18 19:12:10,013 INFO Client connection 1710759799136_192.168.56.8_42990 disconnect, remove instances and subscribers
+
+2024-03-18 19:12:11,028 INFO Client connection 1710759799136_192.168.56.8_42990 disconnect, remove instances and subscribers
+
+2024-03-18 19:12:11,028 INFO Client connection 1710759799136_192.168.56.8_42990 disconnect, remove instances and subscribers
+
+2024-03-18 19:12:17,625 INFO Client connection 1710760337574_192.168.56.8_34524 connect
+
+2024-03-18 19:12:17,737 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=2}, 1710760337574_192.168.56.8_34524
+
+2024-03-18 19:12:18,838 INFO Client connection 1710760337574_192.168.56.8_34524 connect
+
+2024-03-18 19:12:18,838 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=2}, 1710760337574_192.168.56.8_34524
+
+2024-03-18 19:12:18,840 INFO Client connection 1710760337574_192.168.56.8_34524 connect
+
+2024-03-18 19:12:18,840 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=2}, 1710760337574_192.168.56.8_34524
+
+2024-03-18 19:17:22,830 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=11}, 1710759734241_192.168.56.8_34060
+
+2024-03-18 19:17:22,838 INFO Client connection 1710759734241_192.168.56.8_34060 disconnect, remove instances and subscribers
+
+2024-03-18 19:17:23,512 INFO Client connection 1710759730122_192.168.56.8_37204 disconnect, remove instances and subscribers
+
+2024-03-18 19:17:23,875 INFO Client connection 1710759734241_192.168.56.8_34060 disconnect, remove instances and subscribers
+
+2024-03-18 19:17:23,875 INFO Client connection 1710759734241_192.168.56.8_34060 disconnect, remove instances and subscribers
+
+2024-03-18 19:17:30,481 INFO Client connection 1710760650476_192.168.56.8_51372 connect
+
+2024-03-18 19:17:30,602 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=12}, 1710760650476_192.168.56.8_51372
+
+2024-03-18 19:17:31,682 INFO Client connection 1710760650476_192.168.56.8_51372 connect
+
+2024-03-18 19:17:31,682 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=12}, 1710760650476_192.168.56.8_51372
+
+2024-03-18 19:17:31,685 INFO Client connection 1710760650476_192.168.56.8_51372 connect
+
+2024-03-18 19:17:31,685 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=12}, 1710760650476_192.168.56.8_51372
+
+2024-03-18 19:23:55,158 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=13}, 1710760650476_192.168.56.8_51372
+
+2024-03-18 19:23:55,168 INFO Client connection 1710760650476_192.168.56.8_51372 disconnect, remove instances and subscribers
+
+2024-03-18 19:23:55,677 INFO Client connection 1710760646306_192.168.56.8_48124 disconnect, remove instances and subscribers
+
+2024-03-18 19:23:56,208 INFO Client connection 1710760650476_192.168.56.8_51372 disconnect, remove instances and subscribers
+
+2024-03-18 19:23:56,209 INFO Client connection 1710760650476_192.168.56.8_51372 disconnect, remove instances and subscribers
+
+2024-03-18 19:24:02,529 INFO Client connection 1710761042523_192.168.56.8_33622 connect
+
+2024-03-18 19:24:02,648 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=14}, 1710761042523_192.168.56.8_33622
+
+2024-03-18 19:24:03,715 INFO Client connection 1710761042523_192.168.56.8_33622 connect
+
+2024-03-18 19:24:03,715 INFO Client connection 1710761042523_192.168.56.8_33622 connect
+
+2024-03-18 19:24:03,715 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=14}, 1710761042523_192.168.56.8_33622
+
+2024-03-18 19:24:03,715 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=14}, 1710761042523_192.168.56.8_33622
+
+2024-03-18 19:24:51,281 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=15}, 1710761042523_192.168.56.8_33622
+
+2024-03-18 19:24:51,289 INFO Client connection 1710761042523_192.168.56.8_33622 disconnect, remove instances and subscribers
+
+2024-03-18 19:24:51,806 INFO Client connection 1710761038415_192.168.56.8_38622 disconnect, remove instances and subscribers
+
+2024-03-18 19:24:52,366 INFO Client connection 1710761042523_192.168.56.8_33622 disconnect, remove instances and subscribers
+
+2024-03-18 19:24:52,367 INFO Client connection 1710761042523_192.168.56.8_33622 disconnect, remove instances and subscribers
+
+2024-03-18 19:24:58,698 INFO Client connection 1710761098693_192.168.56.8_34012 connect
+
+2024-03-18 19:24:58,815 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=16}, 1710761098693_192.168.56.8_34012
+
+2024-03-18 19:24:59,875 INFO Client connection 1710761098693_192.168.56.8_34012 connect
+
+2024-03-18 19:24:59,875 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=16}, 1710761098693_192.168.56.8_34012
+
+2024-03-18 19:24:59,877 INFO Client connection 1710761098693_192.168.56.8_34012 connect
+
+2024-03-18 19:24:59,877 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=16}, 1710761098693_192.168.56.8_34012
+
+2024-03-18 19:25:30,355 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=17}, 1710761098693_192.168.56.8_34012
+
+2024-03-18 19:25:30,363 INFO Client connection 1710761098693_192.168.56.8_34012 disconnect, remove instances and subscribers
+
+2024-03-18 19:25:31,038 INFO Client connection 1710761094492_192.168.56.8_36514 disconnect, remove instances and subscribers
+
+2024-03-18 19:25:31,410 INFO Client connection 1710761098693_192.168.56.8_34012 disconnect, remove instances and subscribers
+
+2024-03-18 19:25:31,410 INFO Client connection 1710761098693_192.168.56.8_34012 disconnect, remove instances and subscribers
+
+2024-03-18 19:25:38,089 INFO Client connection 1710761138084_192.168.56.8_53192 connect
+
+2024-03-18 19:25:38,202 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=18}, 1710761138084_192.168.56.8_53192
+
+2024-03-18 19:25:39,219 INFO Client connection 1710761138084_192.168.56.8_53192 connect
+
+2024-03-18 19:25:39,219 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=18}, 1710761138084_192.168.56.8_53192
+
+2024-03-18 19:25:39,220 INFO Client connection 1710761138084_192.168.56.8_53192 connect
+
+2024-03-18 19:25:39,221 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=18}, 1710761138084_192.168.56.8_53192
+

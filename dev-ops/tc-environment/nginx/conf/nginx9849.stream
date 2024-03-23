@@ -1,0 +1,11 @@
+# 添加负载均衡配置
+upstream nacosss {
+    server nacos-server-1:9849 weight=1 max_fails=2 fail_timeout=10s;
+    server nacos-server-2:9849 weight=1 max_fails=2 fail_timeout=10s;
+    server nacos-server-3:9849 weight=1 max_fails=2 fail_timeout=10s;
+}
+
+server {
+    listen       9849 so_keepalive=on;#将上游steam映射到nginx的端口，docker再把这个端口映射到宿主机的端口中
+    proxy_pass nacosss;
+}

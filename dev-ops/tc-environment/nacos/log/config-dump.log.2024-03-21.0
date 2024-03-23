@@ -1,0 +1,6 @@
+2024-03-22 22:43:16,627 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-22 22:43:17,099 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-22 22:43:17,100 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+

@@ -1,0 +1,291 @@
+version: '3.9'
+
+services:
+  mysql:
+    image: mysql:8.0.32
+    container_name: tc-mysql
+    restart: always
+    hostname: mysql
+    command: --default-authentication-plugin=mysql_native_password
+    shm_size: 256m
+    environment:
+      TZ: Asia/Shanghai
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_USER: tacocloud
+      MYSQL_PASSWORD: 123456
+      LANG=: en_US.UTF-8
+    networks:
+      - tc-network
+    ports:
+      - "23306:3306"
+    volumes:
+      - ./sql:/docker-entrypoint-initdb.d
+      - ${MYSQL_DATA}:/var/lib/mysql
+    healthcheck:
+      test: ["CMD","mysqladmin","ping","-h","localhost"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 15s
+
+# redis集群一主两从
+  redis1:
+    image: redis:7.0
+    container_name: tc-redis-1
+    hostname: redis1
+    restart: always
+    ports:
+      - "26379:6379"
+    volumes:
+      - ${REDIS_DATA}:/data
+      - ./redis/redis1:/usr/local/etc/redis
+    command: ["/bin/bash", "-c", "/usr/local/etc/redis/redis.sh"]
+#    networks:
+#      tc-network:
+#        ipv4_address: 192.168.56.10
+    networks:
+      - tc-network
+    healthcheck:
+      test: [ "CMD", "redis-cli", "ping" ]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+#  redis2:
+#    image: redis:7.0
+#    container_name: tc-redis-2
+#    hostname: redis2
+#    restart: always
+##    expose:
+##      - "16380"
+##    ports:
+##      - "26380:6380"
+#    volumes:
+#      - ${REDIS_DATA}:/data
+#      - ./redis/redis2:/usr/local/etc/redis
+#    command: [ "/bin/bash", "-c", "/usr/local/etc/redis/redis.sh" ]
+##    networks:
+##      tc-network:
+##        ipv4_address: 192.168.56.11
+#    healthcheck:
+#      test: [ "CMD", "redis-cli", "ping" ]
+#      interval: 10s
+#      timeout: 5s
+#      retries: 3
+#  redis3:
+#    image: redis:7.0
+#    container_name: tc-redis-3
+#    hostname: redis3
+#    restart: always
+##    expose:
+##      - "16381"
+##    ports:
+##      - "26381:6381"
+#    volumes:
+#      - ${REDIS_DATA}:/data
+#      - ./redis/redis3:/usr/local/etc/redis
+#    command: [ "/bin/bash", "-c", "/usr/local/etc/redis/redis.sh" ]
+##    networks:
+##      tc-network:
+##        ipv4_address: 192.168.56.12
+#    network_mode: host
+#    healthcheck:
+#      test: [ "CMD", "redis-cli", "ping" ]
+#      interval: 10s
+#      timeout: 5s
+#      retries: 3
+#
+## sentinel集群
+#  sentinel1:
+#    image: redis:7.0
+#    container_name: tc-redis-sentinel-1
+#    hostname: redis-sentinel1
+#    restart: always
+#    depends_on:
+#      redis1:
+#        condition: service_healthy
+##    ports:
+##      - "27001:36379"
+#    volumes:
+#      - ./redis/redis1:/usr/local/etc/redis
+#    command: ["/bin/bash", "-c", "/usr/local/etc/redis/sentinel.sh"]
+##    networks:
+##      tc-network:
+##        ipv4_address: 192.168.56.20
+#    network_mode: host
+#  sentinel2:
+#    image: redis:7.0
+#    container_name: tc-redis-sentinel-2
+#    hostname: redis-sentinel2
+#    restart: always
+#    depends_on:
+#      redis1:
+#        condition: service_healthy
+##    ports:
+##      - "27002:36380"
+#    volumes:
+#      - ./redis/redis2:/usr/local/etc/redis
+#    command: [ "/bin/bash", "-c", "/usr/local/etc/redis/sentinel.sh" ]
+##    networks:
+##      tc-network:
+##        ipv4_address: 192.168.56.21
+#    network_mode: host
+#  sentinel3:
+#    image: redis:7.0
+#    container_name: tc-redis-sentinel-3
+#    hostname: redis-sentinel3
+#    restart: always
+#    depends_on:
+#      redis1:
+#        condition: service_healthy
+##    ports:
+##      - "27003:36381"
+#    volumes:
+#      - ./redis/redis3:/usr/local/etc/redis
+#    command: [ "/bin/bash", "-c", "/usr/local/etc/redis/sentinel.sh" ]
+##    networks:
+##      tc-network:
+##        ipv4_address: 192.168.56.22
+#    network_mode: host
+
+  redis-commander:
+    image: spryker/redis-commander:0.8.0
+    container_name: tc-redis-commander
+    hostname: redis-commander
+    restart: always
+    ports:
+      - "18081:8081"
+    environment:
+      - TZ=Asia/Shanghai
+      - REDIS_HOST=redis1
+      - REDIS_PORT=6379
+      - REDIS_PASSWORD=123456
+    networks:
+      - tc-network
+    depends_on:
+      redis1:
+        condition: service_healthy
+
+  zookeeper:
+    image: zookeeper:3.9.1
+    container_name: zookeeper
+    ports:
+      - "22180:2180"
+  kafka:
+    image: wurstmeister/kafka:latest
+    container_name: kafka
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+    expose:
+      - "9093"
+    environment:
+      KAFKA_ADVERTISED_LISTENERS: INSIDE://kafka:9093,OUTSIDE://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: INSIDE:PLAINTEXT,OUTSIDE:PLAINTEXT
+      KAFKA_LISTENERS: INSIDE://0.0.0.0:9093,OUTSIDE://0.0.0.0:9092
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_INTER_BROKER_LISTENER_NAME: INSIDE
+  kafdrop:
+    image: obsidiandynamics/kafdrop:latest
+    container_name: kafdrop
+    ports:
+      - "19000:9000"
+    environment:
+      - KAFKA_BROKERCONNECT=kafka:9093
+  nacos1:
+    image: nacos/nacos-server:v2.3.0
+    container_name: nacos-server-1
+    hostname: nacos-server-1
+    volumes:
+      - ./nacos/log/:/home/nacos/logs/
+    ports:
+      - "38848:8848"
+      - "39848:9848"
+      - "39851:9849"
+    restart: always
+    environment:
+       - PREFER_HOST_MODE=hostname
+       - MODE=cluster
+       - NACOS_SERVERS=nacos-server-1:8848 nacos-server-2:8848 nacos-server-3:8848
+       - SPRING_DATASOURCE_PLATFORM=mysql
+       - MYSQL_SERVICE_HOST=mysql
+       - MYSQL_SERVICE_DB_NAME=nacos
+       - MYSQL_SERVICE_PORT=3306
+       - MYSQL_SERVICE_USER=root
+       - MYSQL_SERVICE_PASSWORD=123456
+       - MYSQL_SERVICE_DB_PARAM=characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useSSL=false&allowPublicKeyRetrieval=true
+#       - NACOS_AUTH_IDENTITY_KEY=2222
+#       - NACOS_AUTH_IDENTITY_VALUE=2xxx
+#       - NACOS_AUTH_TOKEN=SecretKey012345678901234567890123456789012345678901234567890123456789
+    networks:
+      - tc-network
+  nacos2:
+    image: nacos/nacos-server:v2.3.0
+    container_name: nacos-server-2
+    hostname: nacos-server-2
+    volumes:
+      - ./nacos/log/:/home/nacos/logs/
+    ports:
+      - "38846:8848"
+      - "39846:9848"
+      - "39852:9849"
+    restart: always
+    environment:
+      - PREFER_HOST_MODE=hostname
+      - MODE=cluster
+      - NACOS_SERVERS=nacos-server-1:8848 nacos-server-2:8848 nacos-server-3:8848
+      - SPRING_DATASOURCE_PLATFORM=mysql
+      - MYSQL_SERVICE_HOST=mysql
+      - MYSQL_SERVICE_DB_NAME=nacos
+      - MYSQL_SERVICE_PORT=3306
+      - MYSQL_SERVICE_USER=root
+      - MYSQL_SERVICE_PASSWORD=123456
+      - MYSQL_SERVICE_DB_PARAM=characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useSSL=false&allowPublicKeyRetrieval=true
+    networks:
+      - tc-network
+  nacos3:
+    image: nacos/nacos-server:v2.3.0
+    container_name: nacos-server-3
+    hostname: nacos-server-3
+    volumes:
+      - ./nacos/log/:/home/nacos/logs/
+    ports:
+      - "38847:8848"
+      - "39847:9848"
+      - "39853:9849"
+    restart: always
+    environment:
+      - PREFER_HOST_MODE=hostname
+      - MODE=cluster
+      - NACOS_SERVERS=nacos-server-1:8848 nacos-server-2:8848 nacos-server-3:8848
+      - SPRING_DATASOURCE_PLATFORM=mysql
+      - MYSQL_SERVICE_HOST=mysql
+      - MYSQL_SERVICE_DB_NAME=nacos
+      - MYSQL_SERVICE_PORT=3306
+      - MYSQL_SERVICE_USER=root
+      - MYSQL_SERVICE_PASSWORD=123456
+      - MYSQL_SERVICE_DB_PARAM=characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useSSL=false&allowPublicKeyRetrieval=true
+    networks:
+      - tc-network
+  nacos-nginx:
+    container_name: nacos-nginx
+    image: nginx:1.21.1
+    restart: always
+    ports:
+      - "8848:8848"
+      - "9848:9848"
+      - "9849:9849"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/conf:/etc/nginx/conf.d
+      - ./nginx/logs:/var/log/nginx
+    networks:
+      - tc-network
+networks:
+  tc-network:
+    name: tc-network
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 192.168.56.0/24

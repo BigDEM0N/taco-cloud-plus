@@ -1,0 +1,648 @@
+2024-03-21 00:01:42,936 INFO Client connection 1710950255803_192.168.56.4_47788 disconnect, remove instances and subscribers
+
+2024-03-21 00:01:49,312 INFO Client connection 1710950509086_192.168.56.4_49020 connect
+
+2024-03-21 00:01:49,312 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=2}, 1710950509086_192.168.56.4_49020
+
+2024-03-21 00:02:05,754 INFO Client connection 1710950506186_192.168.56.4_36812 disconnect, remove instances and subscribers
+
+2024-03-21 00:02:06,432 INFO Client connection 1710950509086_192.168.56.4_49020 disconnect, remove instances and subscribers
+
+2024-03-21 00:03:09,357 WARN namespace : public, [DEFAULT_GROUP@@tc-kitchen] services are automatically cleaned
+
+2024-03-21 00:12:29,236 INFO Client connection 1710951149231_192.168.56.4_46890 connect
+
+2024-03-21 00:12:29,357 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=0}, 1710951149231_192.168.56.4_46890
+
+2024-03-21 00:12:29,785 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=1}, 1710951149231_192.168.56.4_46890
+
+2024-03-21 00:12:30,118 INFO Client connection 1710951149231_192.168.56.4_46890 disconnect, remove instances and subscribers
+
+2024-03-21 00:13:52,651 INFO Client connection 1710951231444_192.168.56.4_38838 disconnect, remove instances and subscribers
+
+2024-03-21 00:14:09,359 WARN namespace : public, [DEFAULT_GROUP@@tc-kitchen] services are automatically cleaned
+
+2024-03-21 00:15:11,423 INFO Client connection 1710951310293_192.168.56.4_46630 connect
+
+2024-03-21 00:15:11,423 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=0}, 1710951310293_192.168.56.4_46630
+
+2024-03-21 00:44:51,662 INFO Client connection 1710951307603_192.168.56.4_47272 disconnect, remove instances and subscribers
+
+2024-03-21 00:44:52,353 INFO Client connection 1710951310293_192.168.56.4_46630 disconnect, remove instances and subscribers
+
+2024-03-21 00:44:59,253 INFO Client connection 1710953099247_192.168.56.4_56244 connect
+
+2024-03-21 00:44:59,363 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=2}, 1710953099247_192.168.56.4_56244
+
+2024-03-21 00:46:06,554 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=3}, 1710953099247_192.168.56.4_56244
+
+2024-03-21 00:46:06,563 INFO Client connection 1710953099247_192.168.56.4_56244 disconnect, remove instances and subscribers
+
+2024-03-21 00:46:15,053 INFO Client connection 1710953174007_192.168.56.4_60226 connect
+
+2024-03-21 00:46:15,053 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=4}, 1710953174007_192.168.56.4_60226
+
+2024-03-21 00:48:05,877 INFO Client connection 1710953174007_192.168.56.4_60226 disconnect, remove instances and subscribers
+
+2024-03-21 00:48:13,475 INFO Client connection 1710953292298_192.168.56.4_53332 connect
+
+2024-03-21 00:48:13,475 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=6}, 1710953292298_192.168.56.4_53332
+
+2024-03-21 00:58:17,235 INFO Client connection 1710953289636_192.168.56.4_43504 disconnect, remove instances and subscribers
+
+2024-03-21 00:58:17,893 INFO Client connection 1710953292298_192.168.56.4_53332 disconnect, remove instances and subscribers
+
+2024-03-21 00:58:24,050 INFO Client connection 1710953904044_192.168.56.4_40394 connect
+
+2024-03-21 00:58:24,162 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=8}, 1710953904044_192.168.56.4_40394
+
+2024-03-21 00:59:46,087 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=9}, 1710953904044_192.168.56.4_40394
+
+2024-03-21 00:59:46,095 INFO Client connection 1710953904044_192.168.56.4_40394 disconnect, remove instances and subscribers
+
+2024-03-21 00:59:54,702 INFO Client connection 1710953993543_192.168.56.4_47532 connect
+
+2024-03-21 00:59:54,702 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=10}, 1710953993543_192.168.56.4_47532
+
+2024-03-21 01:04:18,103 INFO Client connection 1710953993543_192.168.56.4_47532 disconnect, remove instances and subscribers
+
+2024-03-21 01:04:26,404 INFO Client connection 1710954265176_192.168.56.4_35100 connect
+
+2024-03-21 01:04:26,404 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=12}, 1710954265176_192.168.56.4_35100
+
+2024-03-21 01:05:21,416 INFO Client connection 1710954262365_192.168.56.4_35612 disconnect, remove instances and subscribers
+
+2024-03-21 01:05:22,174 INFO Client connection 1710954265176_192.168.56.4_35100 disconnect, remove instances and subscribers
+
+2024-03-21 01:05:28,833 INFO Client connection 1710954328828_192.168.56.4_52260 connect
+
+2024-03-21 01:05:28,959 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=14}, 1710954328828_192.168.56.4_52260
+
+2024-03-21 01:06:12,523 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=15}, 1710954328828_192.168.56.4_52260
+
+2024-03-21 01:06:12,531 INFO Client connection 1710954328828_192.168.56.4_52260 disconnect, remove instances and subscribers
+
+2024-03-21 01:06:21,642 INFO Client connection 1710954380464_192.168.56.4_53496 connect
+
+2024-03-21 01:06:21,642 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=16}, 1710954380464_192.168.56.4_53496
+
+2024-03-21 01:11:25,001 INFO Client connection 1710954380464_192.168.56.4_53496 disconnect, remove instances and subscribers
+
+2024-03-21 01:11:32,789 INFO Client connection 1710954691616_192.168.56.4_58380 connect
+
+2024-03-21 01:11:32,789 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=18}, 1710954691616_192.168.56.4_58380
+
+2024-03-21 01:13:38,519 INFO Client connection 1710954688905_192.168.56.4_54188 disconnect, remove instances and subscribers
+
+2024-03-21 01:13:39,239 INFO Client connection 1710954691616_192.168.56.4_58380 disconnect, remove instances and subscribers
+
+2024-03-21 01:13:46,228 INFO Client connection 1710954826222_192.168.56.4_60120 connect
+
+2024-03-21 01:13:46,342 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=20}, 1710954826222_192.168.56.4_60120
+
+2024-03-21 01:18:56,146 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=21}, 1710954826222_192.168.56.4_60120
+
+2024-03-21 01:18:56,157 INFO Client connection 1710954826222_192.168.56.4_60120 disconnect, remove instances and subscribers
+
+2024-03-21 01:19:04,731 INFO Client connection 1710955143551_192.168.56.4_60168 connect
+
+2024-03-21 01:19:04,731 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=22}, 1710955143551_192.168.56.4_60168
+
+2024-03-21 01:19:43,077 INFO Client connection 1710955143551_192.168.56.4_60168 disconnect, remove instances and subscribers
+
+2024-03-21 01:19:50,480 INFO Client connection 1710955189299_192.168.56.4_50614 connect
+
+2024-03-21 01:19:50,480 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=24}, 1710955189299_192.168.56.4_50614
+
+2024-03-21 01:20:14,804 INFO Client connection 1710955214799_192.168.56.4_38184 connect
+
+2024-03-21 01:20:14,911 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=25}, 1710955214799_192.168.56.4_38184
+
+2024-03-21 01:21:18,294 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=26}, 1710955214799_192.168.56.4_38184
+
+2024-03-21 01:21:18,302 INFO Client connection 1710955214799_192.168.56.4_38184 disconnect, remove instances and subscribers
+
+2024-03-21 01:21:21,026 INFO Client connection 1710955186657_192.168.56.4_43498 disconnect, remove instances and subscribers
+
+2024-03-21 01:21:21,686 INFO Client connection 1710955189299_192.168.56.4_50614 disconnect, remove instances and subscribers
+
+2024-03-21 01:21:29,494 INFO Client connection 1710955288305_192.168.56.4_39242 connect
+
+2024-03-21 01:21:29,494 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=28}, 1710955288305_192.168.56.4_39242
+
+2024-03-21 01:21:43,111 INFO Client connection 1710955301991_192.168.56.4_47610 connect
+
+2024-03-21 01:21:43,111 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=29}, 1710955301991_192.168.56.4_47610
+
+2024-03-21 01:22:18,086 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=9}, 1710950212069_192.168.56.4_41602
+
+2024-03-21 01:22:18,100 INFO Client connection 1710950212069_192.168.56.4_41602 disconnect, remove instances and subscribers
+
+2024-03-21 01:22:20,653 INFO Client connection 1710955288305_192.168.56.4_39242 disconnect, remove instances and subscribers
+
+2024-03-21 01:22:21,554 INFO Client connection 1710946299250_192.168.56.4_47352 disconnect, remove instances and subscribers
+
+2024-03-21 01:22:24,274 INFO Client connection 1710955299289_192.168.56.4_48820 disconnect, remove instances and subscribers
+
+2024-03-21 01:22:24,959 INFO Client connection 1710955301991_192.168.56.4_47610 disconnect, remove instances and subscribers
+
+2024-03-21 14:24:48,867 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:24:48,870 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:24:48,875 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:24:55,958 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-21 14:24:55,959 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-21 14:24:55,959 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-21 14:24:55,960 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-21 14:24:55,992 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-21 14:24:55,992 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-21 14:24:55,993 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-21 14:24:55,993 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-21 14:24:55,993 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-21 14:24:55,993 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-21 14:24:55,994 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-21 14:24:55,994 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-21 14:24:56,732 INFO Load instance extension handler []
+
+2024-03-21 14:24:56,750 INFO Load instance extension handler []
+
+2024-03-21 14:24:56,799 INFO Load instance extension handler []
+
+2024-03-21 14:25:04,628 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:25:04,633 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:25:04,727 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:25:04,738 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:25:06,643 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:25:06,645 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:25:08,368 INFO Client connection 1711002308317_192.168.56.2_45474 connect
+
+2024-03-21 14:25:08,493 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1711002308317_192.168.56.2_45474
+
+2024-03-21 14:25:09,579 INFO Client connection 1711002308317_192.168.56.2_45474 connect
+
+2024-03-21 14:25:09,579 INFO Client connection 1711002308317_192.168.56.2_45474 connect
+
+2024-03-21 14:25:09,586 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1711002308317_192.168.56.2_45474
+
+2024-03-21 14:25:09,586 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1711002308317_192.168.56.2_45474
+
+2024-03-21 14:25:18,081 INFO Client connection 1711002318073_192.168.56.2_49810 connect
+
+2024-03-21 14:25:18,202 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=0}, 1711002318073_192.168.56.2_49810
+
+2024-03-21 14:25:19,314 INFO Client connection 1711002318073_192.168.56.2_49810 connect
+
+2024-03-21 14:25:19,314 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=0}, 1711002318073_192.168.56.2_49810
+
+2024-03-21 14:25:19,321 INFO Client connection 1711002318073_192.168.56.2_49810 connect
+
+2024-03-21 14:25:19,324 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=0}, 1711002318073_192.168.56.2_49810
+
+2024-03-21 14:25:28,335 INFO Client connection 1711002328326_192.168.56.2_45994 connect
+
+2024-03-21 14:25:28,457 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=1}, 1711002328326_192.168.56.2_45994
+
+2024-03-21 14:25:29,549 INFO Client connection 1711002328326_192.168.56.2_45994 connect
+
+2024-03-21 14:25:29,550 INFO Client connection 1711002328326_192.168.56.2_45994 connect
+
+2024-03-21 14:25:29,549 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=1}, 1711002328326_192.168.56.2_45994
+
+2024-03-21 14:25:29,550 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=1}, 1711002328326_192.168.56.2_45994
+
+2024-03-21 14:25:37,754 INFO Client connection 1711002337747_192.168.56.2_44548 connect
+
+2024-03-21 14:25:37,871 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1711002337747_192.168.56.2_44548
+
+2024-03-21 14:25:38,898 INFO Client connection 1711002337747_192.168.56.2_44548 connect
+
+2024-03-21 14:25:38,898 INFO Client connection 1711002337747_192.168.56.2_44548 connect
+
+2024-03-21 14:25:38,898 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1711002337747_192.168.56.2_44548
+
+2024-03-21 14:25:38,898 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1711002337747_192.168.56.2_44548
+
+2024-03-21 14:26:29,912 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=1}, 1711002337747_192.168.56.2_44548
+
+2024-03-21 14:26:29,924 INFO Client connection 1711002337747_192.168.56.2_44548 disconnect, remove instances and subscribers
+
+2024-03-21 14:26:30,596 INFO Client connection 1711002333327_192.168.56.2_53494 disconnect, remove instances and subscribers
+
+2024-03-21 14:26:30,960 INFO Client connection 1711002337747_192.168.56.2_44548 disconnect, remove instances and subscribers
+
+2024-03-21 14:26:30,959 INFO Client connection 1711002337747_192.168.56.2_44548 disconnect, remove instances and subscribers
+
+2024-03-21 14:26:39,037 INFO Client connection 1711002399031_192.168.56.2_38150 connect
+
+2024-03-21 14:26:39,144 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1711002399031_192.168.56.2_38150
+
+2024-03-21 14:26:40,203 INFO Client connection 1711002399031_192.168.56.2_38150 connect
+
+2024-03-21 14:26:40,204 INFO Client connection 1711002399031_192.168.56.2_38150 connect
+
+2024-03-21 14:26:40,203 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1711002399031_192.168.56.2_38150
+
+2024-03-21 14:26:40,204 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1711002399031_192.168.56.2_38150
+
+2024-03-21 14:28:00,626 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=3}, 1711002399031_192.168.56.2_38150
+
+2024-03-21 14:28:00,638 INFO Client connection 1711002399031_192.168.56.2_38150 disconnect, remove instances and subscribers
+
+2024-03-21 14:28:01,289 INFO Client connection 1711002394949_192.168.56.2_51592 disconnect, remove instances and subscribers
+
+2024-03-21 14:28:01,689 INFO Client connection 1711002399031_192.168.56.2_38150 disconnect, remove instances and subscribers
+
+2024-03-21 14:28:01,689 INFO Client connection 1711002399031_192.168.56.2_38150 disconnect, remove instances and subscribers
+
+2024-03-21 14:28:09,559 INFO Client connection 1711002489553_192.168.56.2_56590 connect
+
+2024-03-21 14:28:09,675 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1711002489553_192.168.56.2_56590
+
+2024-03-21 14:28:10,727 INFO Client connection 1711002489553_192.168.56.2_56590 connect
+
+2024-03-21 14:28:10,727 INFO Client connection 1711002489553_192.168.56.2_56590 connect
+
+2024-03-21 14:28:10,727 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1711002489553_192.168.56.2_56590
+
+2024-03-21 14:28:10,727 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1711002489553_192.168.56.2_56590
+
+2024-03-21 14:29:34,184 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=5}, 1711002489553_192.168.56.2_56590
+
+2024-03-21 14:29:34,192 INFO Client connection 1711002489553_192.168.56.2_56590 disconnect, remove instances and subscribers
+
+2024-03-21 14:29:34,871 INFO Client connection 1711002485455_192.168.56.2_42612 disconnect, remove instances and subscribers
+
+2024-03-21 14:29:35,224 INFO Client connection 1711002489553_192.168.56.2_56590 disconnect, remove instances and subscribers
+
+2024-03-21 14:29:35,224 INFO Client connection 1711002489553_192.168.56.2_56590 disconnect, remove instances and subscribers
+
+2024-03-21 14:29:43,797 INFO Client connection 1711002583791_192.168.56.2_49936 connect
+
+2024-03-21 14:29:43,907 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1711002583791_192.168.56.2_49936
+
+2024-03-21 14:29:44,969 INFO Client connection 1711002583791_192.168.56.2_49936 connect
+
+2024-03-21 14:29:44,970 INFO Client connection 1711002583791_192.168.56.2_49936 connect
+
+2024-03-21 14:29:44,969 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1711002583791_192.168.56.2_49936
+
+2024-03-21 14:29:44,970 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1711002583791_192.168.56.2_49936
+
+2024-03-21 14:30:30,274 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-03-21 14:30:30,274 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-03-21 14:30:30,279 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-03-21 14:30:30,312 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-03-21 14:30:30,316 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-03-21 14:30:30,349 INFO Client connection 1711002328326_192.168.56.2_45994 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,367 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-03-21 14:30:30,372 INFO Client connection 1711002300210_192.168.56.6_40394 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,384 INFO Client connection 1711002315347_192.168.56.2_60858 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,383 INFO Client connection 1711002300135_192.168.56.6_49750 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,396 INFO Client connection 1711002300206_192.168.56.7_58670 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,399 INFO Client connection 1711002300266_192.168.56.4_34386 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,398 INFO Client connection 1711002300260_192.168.56.7_36472 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,406 INFO Client connection 1711002325698_192.168.56.2_35374 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,407 INFO Client connection 1711002579449_192.168.56.2_48738 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,414 INFO Client connection 1711002300161_192.168.56.4_48150 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,416 INFO Client connection 1711002318073_192.168.56.2_49810 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,422 INFO Client connection 1711002308317_192.168.56.2_45474 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:30,431 INFO Client connection 1711002583791_192.168.56.2_49936 disconnect, remove instances and subscribers
+
+2024-03-21 14:30:31,249 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-03-21 14:30:31,290 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-03-21 14:30:31,618 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-03-21 14:31:01,815 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:31:02,108 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:31:03,020 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:31:08,032 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-21 14:31:08,032 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-21 14:31:08,033 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-21 14:31:08,033 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-21 14:31:08,589 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-21 14:31:08,589 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-21 14:31:08,590 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-21 14:31:08,590 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-21 14:31:08,807 INFO Load instance extension handler []
+
+2024-03-21 14:31:09,301 INFO Load instance extension handler []
+
+2024-03-21 14:31:09,445 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-03-21 14:31:09,445 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-03-21 14:31:09,445 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-03-21 14:31:09,445 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-03-21 14:31:10,296 INFO Load instance extension handler []
+
+2024-03-21 14:31:11,532 INFO Client connection 1711002671477_192.168.56.7_34134 connect
+
+2024-03-21 14:31:12,954 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=0}, 1711002671477_192.168.56.7_34134
+
+2024-03-21 14:31:14,090 INFO Client connection 1711002671477_192.168.56.7_34134 connect
+
+2024-03-21 14:31:14,091 INFO Client connection 1711002671477_192.168.56.7_34134 connect
+
+2024-03-21 14:31:14,095 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=0}, 1711002671477_192.168.56.7_34134
+
+2024-03-21 14:31:14,095 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=0}, 1711002671477_192.168.56.7_34134
+
+2024-03-21 14:31:14,322 INFO Client connection 1711002674314_192.168.56.7_39164 connect
+
+2024-03-21 14:31:14,398 INFO Client connection 1711002674392_192.168.56.7_34158 connect
+
+2024-03-21 14:31:14,476 INFO Client connection 1711002674470_192.168.56.7_39168 connect
+
+2024-03-21 14:31:14,665 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1711002674470_192.168.56.7_39168
+
+2024-03-21 14:31:15,712 INFO Client connection 1711002674470_192.168.56.7_39168 connect
+
+2024-03-21 14:31:15,712 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1711002674470_192.168.56.7_39168
+
+2024-03-21 14:31:15,720 INFO Client connection 1711002674470_192.168.56.7_39168 connect
+
+2024-03-21 14:31:15,722 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-gateway', ephemeral=true, revision=0}, 1711002674470_192.168.56.7_39168
+
+2024-03-21 14:31:15,984 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:31:15,995 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:31:16,558 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:31:16,563 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:31:16,872 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1711002674314_192.168.56.7_39164
+
+2024-03-21 14:31:17,274 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=1}, 1711002674392_192.168.56.7_34158
+
+2024-03-21 14:31:17,906 INFO Client connection 1711002674314_192.168.56.7_39164 connect
+
+2024-03-21 14:31:17,907 INFO Client connection 1711002674314_192.168.56.7_39164 connect
+
+2024-03-21 14:31:17,906 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1711002674314_192.168.56.7_39164
+
+2024-03-21 14:31:17,907 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=0}, 1711002674314_192.168.56.7_39164
+
+2024-03-21 14:31:18,001 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:31:18,000 INFO [NACOS-DISTRO] healthy server list changed, old: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848], new: [nacos-server-1:8848, nacos-server-2:8848, nacos-server-3:8848]
+
+2024-03-21 14:31:18,363 INFO Client connection 1711002674392_192.168.56.7_34158 connect
+
+2024-03-21 14:31:18,363 INFO Client connection 1711002674392_192.168.56.7_34158 connect
+
+2024-03-21 14:31:18,363 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=1}, 1711002674392_192.168.56.7_34158
+
+2024-03-21 14:31:18,363 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=1}, 1711002674392_192.168.56.7_34158
+
+2024-03-21 14:32:24,277 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=1}, 1711002674314_192.168.56.7_39164
+
+2024-03-21 14:32:24,286 INFO Client connection 1711002674314_192.168.56.7_39164 disconnect, remove instances and subscribers
+
+2024-03-21 14:32:24,784 INFO Client connection 1711002674161_192.168.56.7_43004 disconnect, remove instances and subscribers
+
+2024-03-21 14:32:25,283 INFO Client connection 1711002674314_192.168.56.7_39164 disconnect, remove instances and subscribers
+
+2024-03-21 14:32:25,283 INFO Client connection 1711002674314_192.168.56.7_39164 disconnect, remove instances and subscribers
+
+2024-03-21 14:32:32,235 INFO Client connection 1711002752230_192.168.56.7_41340 connect
+
+2024-03-21 14:32:32,356 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1711002752230_192.168.56.7_41340
+
+2024-03-21 14:32:33,382 INFO Client connection 1711002752230_192.168.56.7_41340 connect
+
+2024-03-21 14:32:33,383 INFO Client connection 1711002752230_192.168.56.7_41340 connect
+
+2024-03-21 14:32:33,383 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1711002752230_192.168.56.7_41340
+
+2024-03-21 14:32:33,383 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=2}, 1711002752230_192.168.56.7_41340
+
+2024-03-21 14:36:36,043 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=3}, 1711002752230_192.168.56.7_41340
+
+2024-03-21 14:36:36,053 INFO Client connection 1711002752230_192.168.56.7_41340 disconnect, remove instances and subscribers
+
+2024-03-21 14:36:36,728 INFO Client connection 1711002747962_192.168.56.7_55396 disconnect, remove instances and subscribers
+
+2024-03-21 14:36:37,136 INFO Client connection 1711002752230_192.168.56.7_41340 disconnect, remove instances and subscribers
+
+2024-03-21 14:36:37,136 INFO Client connection 1711002752230_192.168.56.7_41340 disconnect, remove instances and subscribers
+
+2024-03-21 14:36:45,303 INFO Client connection 1711003005298_192.168.56.7_40516 connect
+
+2024-03-21 14:36:45,414 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1711003005298_192.168.56.7_40516
+
+2024-03-21 14:36:46,515 INFO Client connection 1711003005298_192.168.56.7_40516 connect
+
+2024-03-21 14:36:46,516 INFO Client connection 1711003005298_192.168.56.7_40516 connect
+
+2024-03-21 14:36:46,516 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1711003005298_192.168.56.7_40516
+
+2024-03-21 14:36:46,516 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=4}, 1711003005298_192.168.56.7_40516
+
+2024-03-21 14:37:16,471 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=5}, 1711003005298_192.168.56.7_40516
+
+2024-03-21 14:37:16,480 INFO Client connection 1711003005298_192.168.56.7_40516 disconnect, remove instances and subscribers
+
+2024-03-21 14:37:17,155 INFO Client connection 1711003000986_192.168.56.7_57924 disconnect, remove instances and subscribers
+
+2024-03-21 14:37:17,551 INFO Client connection 1711003005298_192.168.56.7_40516 disconnect, remove instances and subscribers
+
+2024-03-21 14:37:17,550 INFO Client connection 1711003005298_192.168.56.7_40516 disconnect, remove instances and subscribers
+
+2024-03-21 14:37:25,479 INFO Client connection 1711003045474_192.168.56.7_34296 connect
+
+2024-03-21 14:37:25,589 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1711003045474_192.168.56.7_34296
+
+2024-03-21 14:37:26,693 INFO Client connection 1711003045474_192.168.56.7_34296 connect
+
+2024-03-21 14:37:26,693 INFO Client connection 1711003045474_192.168.56.7_34296 connect
+
+2024-03-21 14:37:26,693 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1711003045474_192.168.56.7_34296
+
+2024-03-21 14:37:26,693 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=6}, 1711003045474_192.168.56.7_34296
+
+2024-03-21 14:38:33,900 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=7}, 1711003045474_192.168.56.7_34296
+
+2024-03-21 14:38:33,910 INFO Client connection 1711003045474_192.168.56.7_34296 disconnect, remove instances and subscribers
+
+2024-03-21 14:38:34,582 INFO Client connection 1711003041213_192.168.56.7_47142 disconnect, remove instances and subscribers
+
+2024-03-21 14:38:34,961 INFO Client connection 1711003045474_192.168.56.7_34296 disconnect, remove instances and subscribers
+
+2024-03-21 14:38:34,961 INFO Client connection 1711003045474_192.168.56.7_34296 disconnect, remove instances and subscribers
+
+2024-03-21 14:38:43,134 INFO Client connection 1711003123128_192.168.56.7_33920 connect
+
+2024-03-21 14:38:43,252 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=8}, 1711003123128_192.168.56.7_33920
+
+2024-03-21 14:38:43,470 INFO Client connection 1711003123128_192.168.56.7_33920 connect
+
+2024-03-21 14:38:43,470 INFO Client connection 1711003123128_192.168.56.7_33920 connect
+
+2024-03-21 14:38:43,470 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=8}, 1711003123128_192.168.56.7_33920
+
+2024-03-21 14:38:43,470 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-server', ephemeral=true, revision=8}, 1711003123128_192.168.56.7_33920
+
+2024-03-21 22:22:07,389 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-03-21 22:22:07,391 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-03-21 22:22:07,389 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-03-21 22:22:07,443 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-03-21 22:22:07,442 INFO Client connection 1711003118887_192.168.56.7_45668 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,448 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-03-21 22:22:07,466 INFO Client connection 1711002671477_192.168.56.7_34134 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,479 INFO Client connection 1711002671823_192.168.56.3_53296 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,481 INFO Client connection 1711002671545_192.168.56.7_34146 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,485 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-03-21 22:22:07,492 INFO Client connection 1711002671633_192.168.56.2_35086 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,494 INFO Client connection 1711002674392_192.168.56.7_34158 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,507 INFO Client connection 1711002672811_192.168.56.3_56000 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,511 INFO Client connection 1711002674470_192.168.56.7_39168 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,513 INFO Client connection 1711002672170_192.168.56.4_48080 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,537 INFO Client connection 1711002672114_192.168.56.4_49302 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,542 INFO Client connection 1711002671908_192.168.56.2_46268 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,551 INFO Client connection 1711002674439_192.168.56.7_43012 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:07,554 INFO Client connection 1711003123128_192.168.56.7_33920 disconnect, remove instances and subscribers
+
+2024-03-21 22:22:08,358 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-03-21 22:22:08,733 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2024-03-21 22:22:09,021 ERROR [HEALTH-CHECK-V2] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.processTask(TcpHealthCheckProcessor.java:122)
+	at com.alibaba.nacos.naming.healthcheck.v2.processor.TcpHealthCheckProcessor.run(TcpHealthCheckProcessor.java:139)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)

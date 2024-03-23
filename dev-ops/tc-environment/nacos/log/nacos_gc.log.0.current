@@ -1,0 +1,19 @@
+OpenJDK 64-Bit Server VM (25.392-b08) for linux-amd64 JRE (1.8.0_392-b08), built on Nov 14 2023 16:31:55 by "mockbuild" with gcc 4.8.5 20150623 (Red Hat 4.8.5-44)
+Memory: 4k page, physical 8135704k(6464672k free), swap 1048572k(1048572k free)
+CommandLine flags: -XX:+CMSClassUnloadingEnabled -XX:CMSInitiatingOccupancyFraction=70 -XX:+CMSParallelRemarkEnabled -XX:CompressedClassSpaceSize=327155712 -XX:GCLogFileSize=104857600 -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nacos/logs/java_heapdump.hprof -XX:InitialHeapSize=1073741824 -XX:MaxHeapSize=1073741824 -XX:MaxMetaspaceSize=335544320 -XX:MaxNewSize=536870912 -XX:MetaspaceSize=134217728 -XX:NewSize=536870912 -XX:NumberOfGCLogFiles=10 -XX:OldPLABSize=16 -XX:-OmitStackTraceInFastThrow -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:SoftRefLRUPolicyMSPerMB=0 -XX:SurvivorRatio=8 -XX:+UseCMSCompactAtFullCollection -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseConcMarkSweepGC -XX:+UseGCLogFileRotation -XX:-UseLargePages -XX:+UseParNewGC 
+2024-03-22T22:43:01.582+0800: 2.354: [GC (Allocation Failure) 2024-03-22T22:43:01.584+0800: 2.356: [ParNew: 419456K->5993K(471872K), 0.0160721 secs] 419456K->5993K(996160K), 0.0208798 secs] [Times: user=0.08 sys=0.03, real=0.02 secs] 
+2024-03-22T22:43:03.565+0800: 4.451: [GC (Allocation Failure) 2024-03-22T22:43:03.566+0800: 4.452: [ParNew: 425453K->16547K(471872K), 0.0203063 secs] 425453K->16547K(996160K), 0.0213707 secs] [Times: user=0.18 sys=0.01, real=0.02 secs] 
+2024-03-22T22:43:04.603+0800: 5.489: [GC (Allocation Failure) 2024-03-22T22:43:04.604+0800: 5.490: [ParNew: 436003K->22666K(471872K), 0.0122955 secs] 436003K->22666K(996160K), 0.0137747 secs] [Times: user=0.09 sys=0.00, real=0.01 secs] 
+2024-03-22T22:43:07.678+0800: 8.563: [GC (Allocation Failure) 2024-03-22T22:43:07.682+0800: 8.568: [ParNew: 442122K->25466K(471872K), 0.1051086 secs] 442122K->25466K(996160K), 0.1135467 secs] [Times: user=0.74 sys=0.03, real=0.12 secs] 
+2024-03-22T22:43:12.256+0800: 13.028: [GC (Allocation Failure) 2024-03-22T22:43:12.256+0800: 13.028: [ParNew: 444943K->44117K(471872K), 0.0200704 secs] 444943K->44117K(996160K), 0.0210998 secs] [Times: user=0.21 sys=0.01, real=0.02 secs] 
+2024-03-22T22:43:16.836+0800: 17.721: [GC (Allocation Failure) 2024-03-22T22:43:16.836+0800: 17.722: [ParNew: 465406K->42007K(471872K), 0.0745696 secs] 465406K->54841K(996160K), 0.0759025 secs] [Times: user=0.50 sys=0.01, real=0.07 secs] 
+2024-03-22T22:43:21.479+0800: 22.251: [GC (Allocation Failure) 2024-03-22T22:43:21.480+0800: 22.251: [ParNew: 463787K->52416K(471872K), 0.0545388 secs] 476734K->70597K(996160K), 0.0562070 secs] [Times: user=0.52 sys=0.00, real=0.06 secs] 
+2024-03-22T22:53:07.905+0800: 608.676: [GC (Allocation Failure) 2024-03-22T22:53:07.905+0800: 608.677: [ParNew: 471872K->52416K(471872K), 0.0196465 secs] 490053K->95128K(996160K), 0.0210552 secs] [Times: user=0.11 sys=0.02, real=0.02 secs] 
+Heap
+ par new generation   total 471872K, used 351132K [0x00000000c0000000, 0x00000000e0000000, 0x00000000e0000000)
+  eden space 419456K,  72% used [0x00000000c0000000, 0x00000000d2729870, 0x00000000d99a0000)
+  from space 52416K,  93% used [0x00000000d99a0000, 0x00000000dc95d920, 0x00000000dccd0000)
+  to   space 52416K,   0% used [0x00000000dccd0000, 0x00000000dccd0000, 0x00000000e0000000)
+ concurrent mark-sweep generation total 524288K, used 42108K [0x00000000e0000000, 0x0000000100000000, 0x0000000100000000)
+ Metaspace       used 81112K, capacity 85248K, committed 85376K, reserved 1124352K
+  class space    used 9780K, capacity 10537K, committed 10624K, reserved 1048576K

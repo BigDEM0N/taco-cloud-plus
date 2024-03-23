@@ -1,0 +1,132 @@
+2024-03-22 22:43:09,674 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2024-03-22 22:43:09,724 INFO [serverlist] changed to : [Member{ip='nacos-server-1', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}, Member{ip='nacos-server-2', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true, version=2.3.0}}, Member{ip='nacos-server-3', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}]
+
+2024-03-22 22:43:09,687 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2024-03-22 22:43:09,691 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2024-03-22 22:43:10,063 INFO [serverlist] changed to : [Member{ip='nacos-server-1', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}, Member{ip='nacos-server-2', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}, Member{ip='nacos-server-3', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true, version=2.3.0}}]
+
+2024-03-22 22:43:10,066 INFO [serverlist] changed to : [Member{ip='nacos-server-1', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true, version=2.3.0}}, Member{ip='nacos-server-2', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}, Member{ip='nacos-server-3', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}]
+
+2024-03-22 22:43:17,163 INFO start a new rpc client to member - > : Member{ip='nacos-server-1', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}
+
+2024-03-22 22:43:17,257 INFO start a new rpc client to member - > : Member{ip='nacos-server-3', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}
+
+2024-03-22 22:43:17,285 INFO [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[Member{ip='nacos-server-1', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}, Member{ip='nacos-server-3', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}] 
+
+2024-03-22 22:43:17,558 INFO start a new rpc client to member - > : Member{ip='nacos-server-2', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}
+
+2024-03-22 22:43:17,750 INFO start a new rpc client to member - > : Member{ip='nacos-server-1', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}
+
+2024-03-22 22:43:17,888 INFO start a new rpc client to member - > : Member{ip='nacos-server-2', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}
+
+2024-03-22 22:43:18,396 INFO start a new rpc client to member - > : Member{ip='nacos-server-3', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}
+
+2024-03-22 22:43:18,448 INFO [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[Member{ip='nacos-server-1', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}, Member{ip='nacos-server-2', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}] 
+
+2024-03-22 22:43:18,449 INFO [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[Member{ip='nacos-server-2', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}, Member{ip='nacos-server-3', port=8848, state=UP, extendInfo={raftPort=7848, readyToUpgrade=true}}] 
+
+2024-03-22 22:43:20,460 INFO This node is ready to provide external services
+
+2024-03-22 22:43:22,268 INFO This node is ready to provide external services
+
+2024-03-22 22:43:22,371 INFO This node is ready to provide external services
+
+2024-03-22 22:44:01,379 INFO [serverlist] membercount=3
+
+2024-03-22 22:44:01,497 INFO [serverlist] membercount=3
+
+2024-03-22 22:44:01,598 INFO [serverlist] membercount=3
+
+2024-03-22 22:44:51,493 INFO [serverlist] membercount=3
+
+2024-03-22 22:44:51,619 INFO [serverlist] membercount=3
+
+2024-03-22 22:44:51,709 INFO [serverlist] membercount=3
+
+2024-03-22 22:45:41,601 INFO [serverlist] membercount=3
+
+2024-03-22 22:45:41,726 INFO [serverlist] membercount=3
+
+2024-03-22 22:45:41,809 INFO [serverlist] membercount=3
+
+2024-03-22 22:46:31,702 INFO [serverlist] membercount=3
+
+2024-03-22 22:46:31,828 INFO [serverlist] membercount=3
+
+2024-03-22 22:46:31,905 INFO [serverlist] membercount=3
+
+2024-03-22 22:47:21,800 INFO [serverlist] membercount=3
+
+2024-03-22 22:47:21,926 INFO [serverlist] membercount=3
+
+2024-03-22 22:47:22,000 INFO [serverlist] membercount=3
+
+2024-03-22 22:48:11,890 INFO [serverlist] membercount=3
+
+2024-03-22 22:48:12,019 INFO [serverlist] membercount=3
+
+2024-03-22 22:48:12,089 INFO [serverlist] membercount=3
+
+2024-03-22 22:49:01,978 INFO [serverlist] membercount=3
+
+2024-03-22 22:49:02,105 INFO [serverlist] membercount=3
+
+2024-03-22 22:49:02,173 INFO [serverlist] membercount=3
+
+2024-03-22 22:49:52,064 INFO [serverlist] membercount=3
+
+2024-03-22 22:49:52,186 INFO [serverlist] membercount=3
+
+2024-03-22 22:49:52,255 INFO [serverlist] membercount=3
+
+2024-03-22 22:50:42,144 INFO [serverlist] membercount=3
+
+2024-03-22 22:50:42,267 INFO [serverlist] membercount=3
+
+2024-03-22 22:50:42,330 INFO [serverlist] membercount=3
+
+2024-03-22 22:51:32,221 INFO [serverlist] membercount=3
+
+2024-03-22 22:51:32,349 INFO [serverlist] membercount=3
+
+2024-03-22 22:51:32,409 INFO [serverlist] membercount=3
+
+2024-03-22 22:52:22,297 INFO [serverlist] membercount=3
+
+2024-03-22 22:52:22,426 INFO [serverlist] membercount=3
+
+2024-03-22 22:52:22,485 INFO [serverlist] membercount=3
+
+2024-03-22 22:53:12,374 INFO [serverlist] membercount=3
+
+2024-03-22 22:53:12,502 INFO [serverlist] membercount=3
+
+2024-03-22 22:53:12,561 INFO [serverlist] membercount=3
+
+2024-03-22 22:54:02,454 INFO [serverlist] membercount=3
+
+2024-03-22 22:54:02,581 INFO [serverlist] membercount=3
+
+2024-03-22 22:54:02,636 INFO [serverlist] membercount=3
+
+2024-03-22 22:54:52,532 INFO [serverlist] membercount=3
+
+2024-03-22 22:54:52,660 INFO [serverlist] membercount=3
+
+2024-03-22 22:54:52,711 INFO [serverlist] membercount=3
+
+2024-03-22 22:55:42,606 INFO [serverlist] membercount=3
+
+2024-03-22 22:55:42,733 INFO [serverlist] membercount=3
+
+2024-03-22 22:55:42,786 INFO [serverlist] membercount=3
+
+2024-03-22 22:56:32,679 INFO [serverlist] membercount=3
+
+2024-03-22 22:56:32,805 INFO [serverlist] membercount=3
+
+2024-03-22 22:56:32,859 INFO [serverlist] membercount=3
+

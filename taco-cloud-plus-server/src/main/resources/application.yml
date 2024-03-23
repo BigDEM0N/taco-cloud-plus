@@ -1,0 +1,75 @@
+spring:
+  datasource:
+    driver-class-name: org.apache.shardingsphere.driver.ShardingSphereDriver
+    url: jdbc:shardingsphere:classpath:sharding.yml
+  main:
+    allow-bean-definition-overriding: true
+  kafka:
+    bootstrap-servers:
+      - 127.0.0.1:9092
+    producer:
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+      key-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+      properties:
+        spring:
+          json:
+            trusted:
+              packages: "com.avgkin.tacocloudplusserver.entity.po"
+#    consumer:
+#      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+#      key-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+#      group-id: avgkin
+#      properties:
+#        spring:
+#          json:
+#            trusted:
+#              packages: "com.avgkin.tacocloudplusserver.entity.po"
+  application:
+    name: tc-server
+  cloud:
+    nacos:
+      server-addr: 127.0.0.1:8848
+      discovery:
+        cluster-name: Avgkin
+      
+  config:
+    import: nacos:Avgkin.yml
+#  shardingsphere:
+#    datasource:
+#      names: ds0,ds1
+#      ds0:
+#        type: com.alibaba.druid.pool.DruidDataSource
+#        driver-class-name: com.mysql.cj.jdbc.Driver
+#        jdbc-url: jdbc:mysql://localhost:23306/tacocloud_0
+#        username: root
+#        password: 123456
+
+
+
+
+
+logging:
+  file:
+    path: ~/tacocloud/log
+  logback:
+    rollingpolicy:
+      max-history: 7
+
+redis:
+  config:
+    host: 127.0.0.1
+    port: 26379
+    pool-size: 10
+    min-idle-size: 5
+    idle-timeout: 30000
+    connect-timeout: 5000
+    retry-attempts: 3
+    retry-interval: 1000
+    ping-interval: 60000
+    keep-alive: true
+    password: 123456
+#    mastername: mymaster
+#    sentinelAddress: ["redis://127.0.0.1:36379","redis://127.0.0.1:36380","redis://127.0.0.1:36381"]
+
+server:
+  port: 10001

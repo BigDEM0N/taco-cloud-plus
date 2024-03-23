@@ -1,0 +1,2 @@
+2024-03-21 00:12:29,785 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=2}
+

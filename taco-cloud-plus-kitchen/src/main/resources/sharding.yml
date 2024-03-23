@@ -1,0 +1,45 @@
+dataSources:
+  ds0:
+    dataSourceClassName: com.zaxxer.hikari.HikariDataSource
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:23306/tacokitchen_0
+    username: root
+    password: 123456
+  ds1:
+    dataSourceClassName: com.zaxxer.hikari.HikariDataSource
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:23306/tacokitchen_1
+    username: root
+    password: 123456
+
+rules:
+  - !SHARDING
+    tables:
+      user:
+        actualDataNodes: ds$->{0..1}.order_$->{0..1}
+        tableStrategy:
+          standard:
+            shardingColumn: id
+            shardingAlgorithmName: order_inline
+    defaultDatabaseStrategy:
+      standard:
+        shardingColumn: id
+        shardingAlgorithmName: database_inline
+    shardingAlgorithms:
+      database_inline:
+        type: INLINE
+        props:
+          algorithm-expression: ds$->{id % 2}
+      user_inline:
+        type: INLINE
+        props:
+          algorithm-expression: order_$->{id % 2}
+
+props:
+  sql-show: true
+#  sharding:
+#    sharding-algorithms:
+#      database-inline:
+#        type: INLINE
+#        props:
+#          algorithm-expression: ds$->{id%2}

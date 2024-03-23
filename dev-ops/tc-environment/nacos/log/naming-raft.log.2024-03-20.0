@@ -1,0 +1,6 @@
+2024-03-21 14:24:48,831 INFO Raft group naming_persistent_service has leader null
+
+2024-03-21 14:24:49,278 INFO snapshot load from : /home/nacos/data/protocol/raft/naming_persistent_service/snapshot/snapshot_1/naming_persistent
+
+2024-03-21 14:24:54,840 INFO Raft group naming_persistent_service has leader nacos-server-1:7848
+

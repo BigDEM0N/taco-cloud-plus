@@ -1,0 +1,18 @@
+2024-03-18 13:32:01,148 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-18 13:32:01,604 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-18 13:32:01,607 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-18 17:17:01,665 WARN [dump-ignore] ignore to save to disk cache. md5 consistent,groupKey=Avgkin+DEFAULT_GROUP, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-18 17:17:01,667 WARN [dump-ignore] ignore to save to jvm cache. md5 consistent and no new timestamp changed.groupKey=Avgkin+DEFAULT_GROUP
+
+2024-03-18 17:17:01,668 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-18 23:17:03,425 WARN [dump-ignore] ignore to save to disk cache. md5 consistent,groupKey=Avgkin+DEFAULT_GROUP, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-18 23:17:03,426 WARN [dump-ignore] ignore to save to jvm cache. md5 consistent and no new timestamp changed.groupKey=Avgkin+DEFAULT_GROUP
+
+2024-03-18 23:17:03,426 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+

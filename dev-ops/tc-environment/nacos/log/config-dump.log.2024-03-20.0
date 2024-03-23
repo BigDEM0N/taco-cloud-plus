@@ -1,0 +1,138 @@
+2024-03-20 00:45:17,910 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 00:45:18,036 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 00:45:18,037 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 00:45:17,958 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 00:45:18,150 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 00:45:18,153 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 12:12:30,068 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 12:12:30,069 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 12:12:30,075 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 12:12:30,075 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 12:12:30,077 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 12:12:30,081 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 12:12:30,084 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 12:12:30,090 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 12:12:30,091 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 19:10:56,369 WARN [dump-ignore] ignore to save to disk cache. md5 consistent,groupKey=Avgkin+DEFAULT_GROUP, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 19:10:56,369 WARN [dump-ignore] ignore to save to jvm cache. md5 consistent and no new timestamp changed.groupKey=Avgkin+DEFAULT_GROUP
+
+2024-03-20 19:10:56,370 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 19:26:56,359 WARN [dump-ignore] ignore to save to disk cache. md5 consistent,groupKey=Avgkin+DEFAULT_GROUP, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 19:26:56,360 WARN [dump-ignore] ignore to save to jvm cache. md5 consistent and no new timestamp changed.groupKey=Avgkin+DEFAULT_GROUP
+
+2024-03-20 19:26:56,360 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 20:34:56,350 WARN [dump-ignore] ignore to save to disk cache. md5 consistent,groupKey=Avgkin+DEFAULT_GROUP, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 20:34:56,351 WARN [dump-ignore] ignore to save to jvm cache. md5 consistent and no new timestamp changed.groupKey=Avgkin+DEFAULT_GROUP
+
+2024-03-20 20:34:56,351 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 21:52:43,086 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 21:52:43,090 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 21:52:43,091 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 21:52:52,476 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 21:52:52,485 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 21:52:52,486 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 21:52:53,564 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 21:52:53,573 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 21:52:53,574 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 21:58:12,345 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 21:58:12,356 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 21:58:12,361 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 21:58:13,122 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 21:58:13,144 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 21:58:13,145 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 21:58:13,679 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 21:58:13,691 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 21:58:13,693 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 22:02:15,957 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 22:02:15,967 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 22:02:15,969 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 22:02:16,847 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 22:02:16,864 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 22:02:16,873 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 22:02:17,351 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 22:02:17,360 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 22:02:17,362 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 22:04:35,288 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 22:04:35,310 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 22:04:35,313 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 22:04:35,761 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 22:04:35,775 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 22:04:35,778 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 22:04:35,886 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 22:04:35,896 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 22:04:35,897 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 22:14:37,961 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 22:14:37,969 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 22:14:37,970 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 22:14:37,972 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 22:14:37,981 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 22:14:37,983 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+
+2024-03-20 22:14:38,548 INFO [dump] md5 changed, save to disk cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=
+
+2024-03-20 22:14:38,558 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Avgkin+DEFAULT_GROUP, newMd5=8523521c50d43185d139945cf432f55b,oldMd5=,lastModifiedTs=1709397953000
+
+2024-03-20 22:14:38,559 INFO [dump-all-ok] Avgkin+DEFAULT_GROUP, 1709397953000, length=46, md5=8523521c50d43185d139945cf432f55b
+

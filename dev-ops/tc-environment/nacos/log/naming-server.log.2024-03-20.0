@@ -1,0 +1,142 @@
+2024-03-21 00:01:41,706 INFO Client connection 1710950253211_192.168.56.4_52154 disconnect, remove instances and subscribers
+
+2024-03-21 00:01:42,756 INFO Client connection 1710950255803_192.168.56.4_47788 disconnect, remove instances and subscribers
+
+2024-03-21 00:01:49,091 INFO Client connection 1710950509086_192.168.56.4_49020 connect
+
+2024-03-21 00:01:49,207 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=2}, 1710950509086_192.168.56.4_49020
+
+2024-03-21 00:02:05,412 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=3}, 1710950509086_192.168.56.4_49020
+
+2024-03-21 00:02:05,421 INFO Client connection 1710950509086_192.168.56.4_49020 disconnect, remove instances and subscribers
+
+2024-03-21 00:03:09,678 WARN namespace : public, [DEFAULT_GROUP@@tc-kitchen] services are automatically cleaned
+
+2024-03-21 00:12:30,432 INFO Client connection 1710951149231_192.168.56.4_46890 disconnect, remove instances and subscribers
+
+2024-03-21 00:13:52,651 INFO Client connection 1710951231444_192.168.56.4_38838 disconnect, remove instances and subscribers
+
+2024-03-21 00:13:52,777 INFO Client connection 1710951228579_192.168.56.4_56304 disconnect, remove instances and subscribers
+
+2024-03-21 00:15:10,298 INFO Client connection 1710951310293_192.168.56.4_46630 connect
+
+2024-03-21 00:15:10,413 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=0}, 1710951310293_192.168.56.4_46630
+
+2024-03-21 00:44:51,312 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=1}, 1710951310293_192.168.56.4_46630
+
+2024-03-21 00:44:51,320 INFO Client connection 1710951310293_192.168.56.4_46630 disconnect, remove instances and subscribers
+
+2024-03-21 00:44:59,350 INFO Client connection 1710953099247_192.168.56.4_56244 connect
+
+2024-03-21 00:45:00,451 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=2}, 1710953099247_192.168.56.4_56244
+
+2024-03-21 00:46:07,630 INFO Client connection 1710953099247_192.168.56.4_56244 disconnect, remove instances and subscribers
+
+2024-03-21 00:46:15,053 INFO Client connection 1710953174007_192.168.56.4_60226 connect
+
+2024-03-21 00:46:15,053 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=4}, 1710953174007_192.168.56.4_60226
+
+2024-03-21 00:48:05,133 INFO Client connection 1710953171243_192.168.56.4_59924 disconnect, remove instances and subscribers
+
+2024-03-21 00:48:05,878 INFO Client connection 1710953174007_192.168.56.4_60226 disconnect, remove instances and subscribers
+
+2024-03-21 00:48:12,303 INFO Client connection 1710953292298_192.168.56.4_53332 connect
+
+2024-03-21 00:48:12,424 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=6}, 1710953292298_192.168.56.4_53332
+
+2024-03-21 00:58:16,886 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=7}, 1710953292298_192.168.56.4_53332
+
+2024-03-21 00:58:16,895 INFO Client connection 1710953292298_192.168.56.4_53332 disconnect, remove instances and subscribers
+
+2024-03-21 00:58:24,401 INFO Client connection 1710953904044_192.168.56.4_40394 connect
+
+2024-03-21 00:58:24,401 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=8}, 1710953904044_192.168.56.4_40394
+
+2024-03-21 00:59:47,094 INFO Client connection 1710953904044_192.168.56.4_40394 disconnect, remove instances and subscribers
+
+2024-03-21 00:59:54,702 INFO Client connection 1710953993543_192.168.56.4_47532 connect
+
+2024-03-21 00:59:54,702 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=10}, 1710953993543_192.168.56.4_47532
+
+2024-03-21 01:04:17,421 INFO Client connection 1710953990898_192.168.56.4_48842 disconnect, remove instances and subscribers
+
+2024-03-21 01:04:18,103 INFO Client connection 1710953993543_192.168.56.4_47532 disconnect, remove instances and subscribers
+
+2024-03-21 01:04:25,183 INFO Client connection 1710954265176_192.168.56.4_35100 connect
+
+2024-03-21 01:04:25,306 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=12}, 1710954265176_192.168.56.4_35100
+
+2024-03-21 01:05:21,070 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=13}, 1710954265176_192.168.56.4_35100
+
+2024-03-21 01:05:21,077 INFO Client connection 1710954265176_192.168.56.4_35100 disconnect, remove instances and subscribers
+
+2024-03-21 01:05:29,376 INFO Client connection 1710954328828_192.168.56.4_52260 connect
+
+2024-03-21 01:05:29,376 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=14}, 1710954328828_192.168.56.4_52260
+
+2024-03-21 01:06:13,620 INFO Client connection 1710954328828_192.168.56.4_52260 disconnect, remove instances and subscribers
+
+2024-03-21 01:06:21,641 INFO Client connection 1710954380464_192.168.56.4_53496 connect
+
+2024-03-21 01:06:21,642 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=16}, 1710954380464_192.168.56.4_53496
+
+2024-03-21 01:11:24,250 INFO Client connection 1710954377539_192.168.56.4_52058 disconnect, remove instances and subscribers
+
+2024-03-21 01:11:25,000 INFO Client connection 1710954380464_192.168.56.4_53496 disconnect, remove instances and subscribers
+
+2024-03-21 01:11:31,622 INFO Client connection 1710954691616_192.168.56.4_58380 connect
+
+2024-03-21 01:11:31,736 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=18}, 1710954691616_192.168.56.4_58380
+
+2024-03-21 01:13:38,174 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=19}, 1710954691616_192.168.56.4_58380
+
+2024-03-21 01:13:38,182 INFO Client connection 1710954691616_192.168.56.4_58380 disconnect, remove instances and subscribers
+
+2024-03-21 01:13:47,346 INFO Client connection 1710954826222_192.168.56.4_60120 connect
+
+2024-03-21 01:13:47,346 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=20}, 1710954826222_192.168.56.4_60120
+
+2024-03-21 01:18:57,220 INFO Client connection 1710954826222_192.168.56.4_60120 disconnect, remove instances and subscribers
+
+2024-03-21 01:19:04,731 INFO Client connection 1710955143551_192.168.56.4_60168 connect
+
+2024-03-21 01:19:04,731 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=22}, 1710955143551_192.168.56.4_60168
+
+2024-03-21 01:19:42,335 INFO Client connection 1710955140872_192.168.56.4_48886 disconnect, remove instances and subscribers
+
+2024-03-21 01:19:43,075 INFO Client connection 1710955143551_192.168.56.4_60168 disconnect, remove instances and subscribers
+
+2024-03-21 01:19:49,305 INFO Client connection 1710955189299_192.168.56.4_50614 connect
+
+2024-03-21 01:19:49,420 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=24}, 1710955189299_192.168.56.4_50614
+
+2024-03-21 01:20:16,007 INFO Client connection 1710955214799_192.168.56.4_38184 connect
+
+2024-03-21 01:20:16,007 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=25}, 1710955214799_192.168.56.4_38184
+
+2024-03-21 01:21:19,382 INFO Client connection 1710955214799_192.168.56.4_38184 disconnect, remove instances and subscribers
+
+2024-03-21 01:21:20,675 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=27}, 1710955189299_192.168.56.4_50614
+
+2024-03-21 01:21:20,683 INFO Client connection 1710955189299_192.168.56.4_50614 disconnect, remove instances and subscribers
+
+2024-03-21 01:21:29,494 INFO Client connection 1710955288305_192.168.56.4_39242 connect
+
+2024-03-21 01:21:29,494 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=28}, 1710955288305_192.168.56.4_39242
+
+2024-03-21 01:21:41,997 INFO Client connection 1710955301991_192.168.56.4_47610 connect
+
+2024-03-21 01:21:42,107 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=29}, 1710955301991_192.168.56.4_47610
+
+2024-03-21 01:22:19,151 INFO Client connection 1710950212069_192.168.56.4_41602 disconnect, remove instances and subscribers
+
+2024-03-21 01:22:19,995 INFO Client connection 1710955285558_192.168.56.4_37260 disconnect, remove instances and subscribers
+
+2024-03-21 01:22:20,653 INFO Client connection 1710955288305_192.168.56.4_39242 disconnect, remove instances and subscribers
+
+2024-03-21 01:22:21,553 INFO Client connection 1710946299250_192.168.56.4_47352 disconnect, remove instances and subscribers
+
+2024-03-21 01:22:23,929 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='tc-kitchen', ephemeral=true, revision=31}, 1710955301991_192.168.56.4_47610
+
+2024-03-21 01:22:23,936 INFO Client connection 1710955301991_192.168.56.4_47610 disconnect, remove instances and subscribers
+

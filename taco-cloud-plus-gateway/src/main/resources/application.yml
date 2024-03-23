@@ -1,0 +1,15 @@
+server:
+  port: 20000
+spring:
+  application:
+    name: tc-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    gateway:
+      routes:
+        - id: tc-server
+          uri: lb://tc-server #路由的目标地址，并启用负载均衡
+          predicates:
+            - Path=/api/**

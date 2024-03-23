@@ -1,0 +1,342 @@
+2024-03-22 22:43:10,447 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2024-03-22 22:43:11,037 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2024-03-22 22:43:11,617 INFO SPI service [com.alipay.sofa.jraft.util.JRaftSignalHandler - com.alipay.sofa.jraft.NodeDescribeSignalHandler] loading.
+
+2024-03-22 22:43:11,618 INFO SPI service [com.alipay.sofa.jraft.util.JRaftSignalHandler - com.alipay.sofa.jraft.NodeMetricsSignalHandler] loading.
+
+2024-03-22 22:43:11,619 INFO SPI service [com.alipay.sofa.jraft.util.JRaftSignalHandler - com.alipay.sofa.jraft.ThreadPoolMetricsSignalHandler] loading.
+
+2024-03-22 22:43:11,623 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2024-03-22 22:43:11,629 INFO The number of active nodes increment to 1.
+
+2024-03-22 22:43:11,926 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 0 to 2, cost 0 ms.
+
+2024-03-22 22:43:11,937 INFO Starts FSMCaller successfully.
+
+2024-03-22 22:43:11,955 INFO Loading snapshot, meta=last_included_index: 1
+last_included_term: 1
+peers: "nacos-server-3:7848"
+peers: "nacos-server-2:7848"
+peers: "nacos-server-1:7848"
+.
+
+2024-03-22 22:43:12,131 INFO Node <naming_persistent_service/nacos-server-1:7848> onSnapshotLoadDone, last_included_index: 1
+last_included_term: 1
+peers: "nacos-server-3:7848"
+peers: "nacos-server-2:7848"
+peers: "nacos-server-1:7848"
+
+
+2024-03-22 22:43:12,134 INFO Node <naming_persistent_service/nacos-server-1:7848> target priority value has changed from: 0, to: -1.
+
+2024-03-22 22:43:12,144 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service/log from log index 2 to 2, cost 0 ms.
+
+2024-03-22 22:43:12,150 INFO Node <naming_persistent_service/nacos-server-1:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=nacos-server-3:7848,nacos-server-2:7848,nacos-server-1:7848, oldConf=.
+
+2024-03-22 22:43:12,153 WARN RPC server is not started in RaftGroupService.
+
+2024-03-22 22:43:12,154 INFO Start the RaftGroupService successfully.
+
+2024-03-22 22:43:12,329 INFO Creating new channel to: nacos-server-3:7848.
+
+2024-03-22 22:43:12,395 INFO The channel nacos-server-3:7848 is in state: CONNECTING.
+
+2024-03-22 22:43:12,580 INFO The channel nacos-server-3:7848 is in state: READY.
+
+2024-03-22 22:43:12,581 INFO The channel nacos-server-3:7848 has successfully established.
+
+2024-03-22 22:43:12,628 INFO Creating new channel to: nacos-server-2:7848.
+
+2024-03-22 22:43:12,633 INFO The channel nacos-server-2:7848 is in state: CONNECTING.
+
+2024-03-22 22:43:12,641 INFO The channel nacos-server-2:7848 is in state: READY.
+
+2024-03-22 22:43:12,641 INFO The channel nacos-server-2:7848 has successfully established.
+
+2024-03-22 22:43:12,660 INFO Creating new channel to: nacos-server-1:7848.
+
+2024-03-22 22:43:12,664 INFO The channel nacos-server-1:7848 is in state: CONNECTING.
+
+2024-03-22 22:43:12,672 INFO The channel nacos-server-1:7848 is in state: READY.
+
+2024-03-22 22:43:12,672 INFO The channel nacos-server-1:7848 has successfully established.
+
+2024-03-22 22:43:17,235 INFO Node <naming_persistent_service/nacos-server-1:7848> received PreVoteRequest from nacos-server-2:7848, term=2, currTerm=1, granted=true, requestLastLogId=LogId [index=1, term=1], lastLogId=LogId [index=1, term=1].
+
+2024-03-22 22:43:17,239 INFO Node <naming_persistent_service/nacos-server-1:7848> received RequestVoteRequest from nacos-server-2:7848, term=2, currTerm=1.
+
+2024-03-22 22:43:17,264 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_persistent_service/meta-data, term=2, votedFor=0.0.0.0:0, cost time=24 ms
+
+2024-03-22 22:43:17,286 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_persistent_service/meta-data, term=2, votedFor=nacos-server-2:7848, cost time=20 ms
+
+2024-03-22 22:43:17,337 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2024-03-22 22:43:20,001 INFO The number of active nodes increment to 2.
+
+2024-03-22 22:43:20,142 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 0 to 2, cost 0 ms.
+
+2024-03-22 22:43:20,144 INFO Starts FSMCaller successfully.
+
+2024-03-22 22:43:20,146 INFO Loading snapshot, meta=last_included_index: 1
+last_included_term: 1
+peers: "nacos-server-3:7848"
+peers: "nacos-server-2:7848"
+peers: "nacos-server-1:7848"
+.
+
+2024-03-22 22:43:20,157 INFO Node <naming_persistent_service_v2/nacos-server-1:7848> onSnapshotLoadDone, last_included_index: 1
+last_included_term: 1
+peers: "nacos-server-3:7848"
+peers: "nacos-server-2:7848"
+peers: "nacos-server-1:7848"
+
+
+2024-03-22 22:43:20,158 INFO Node <naming_persistent_service_v2/nacos-server-1:7848> target priority value has changed from: 0, to: -1.
+
+2024-03-22 22:43:20,160 INFO Node <naming_persistent_service_v2/nacos-server-1:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=nacos-server-3:7848,nacos-server-2:7848,nacos-server-1:7848, oldConf=.
+
+2024-03-22 22:43:20,161 WARN RPC server is not started in RaftGroupService.
+
+2024-03-22 22:43:20,162 INFO Start the RaftGroupService successfully.
+
+2024-03-22 22:43:20,172 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log from log index 2 to 2, cost 0 ms.
+
+2024-03-22 22:43:20,176 INFO The number of active nodes increment to 3.
+
+2024-03-22 22:43:20,273 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 0 to 2, cost 0 ms.
+
+2024-03-22 22:43:20,274 INFO Starts FSMCaller successfully.
+
+2024-03-22 22:43:20,275 INFO Loading snapshot, meta=last_included_index: 1
+last_included_term: 1
+peers: "nacos-server-3:7848"
+peers: "nacos-server-2:7848"
+peers: "nacos-server-1:7848"
+.
+
+2024-03-22 22:43:20,281 INFO Node <naming_instance_metadata/nacos-server-1:7848> onSnapshotLoadDone, last_included_index: 1
+last_included_term: 1
+peers: "nacos-server-3:7848"
+peers: "nacos-server-2:7848"
+peers: "nacos-server-1:7848"
+
+
+2024-03-22 22:43:20,282 INFO Node <naming_instance_metadata/nacos-server-1:7848> target priority value has changed from: 0, to: -1.
+
+2024-03-22 22:43:20,284 INFO Node <naming_instance_metadata/nacos-server-1:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=nacos-server-3:7848,nacos-server-2:7848,nacos-server-1:7848, oldConf=.
+
+2024-03-22 22:43:20,285 WARN RPC server is not started in RaftGroupService.
+
+2024-03-22 22:43:20,286 INFO Start the RaftGroupService successfully.
+
+2024-03-22 22:43:20,290 INFO The number of active nodes increment to 4.
+
+2024-03-22 22:43:20,302 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_instance_metadata/log from log index 2 to 2, cost 0 ms.
+
+2024-03-22 22:43:20,358 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 0 to 2, cost 0 ms.
+
+2024-03-22 22:43:20,360 INFO Starts FSMCaller successfully.
+
+2024-03-22 22:43:20,361 INFO Loading snapshot, meta=last_included_index: 1
+last_included_term: 1
+peers: "nacos-server-3:7848"
+peers: "nacos-server-2:7848"
+peers: "nacos-server-1:7848"
+.
+
+2024-03-22 22:43:20,365 INFO Node <naming_service_metadata/nacos-server-1:7848> onSnapshotLoadDone, last_included_index: 1
+last_included_term: 1
+peers: "nacos-server-3:7848"
+peers: "nacos-server-2:7848"
+peers: "nacos-server-1:7848"
+
+
+2024-03-22 22:43:20,367 INFO Node <naming_service_metadata/nacos-server-1:7848> target priority value has changed from: 0, to: -1.
+
+2024-03-22 22:43:20,368 INFO Node <naming_service_metadata/nacos-server-1:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=nacos-server-3:7848,nacos-server-2:7848,nacos-server-1:7848, oldConf=.
+
+2024-03-22 22:43:20,370 WARN RPC server is not started in RaftGroupService.
+
+2024-03-22 22:43:20,370 INFO Start the RaftGroupService successfully.
+
+2024-03-22 22:43:20,374 INFO Truncated prefix logs in data path: /home/nacos/data/protocol/raft/naming_service_metadata/log from log index 2 to 2, cost 0 ms.
+
+2024-03-22 22:43:23,163 INFO Node <naming_persistent_service_v2/nacos-server-1:7848> received PreVoteRequest from nacos-server-2:7848, term=2, currTerm=1, granted=true, requestLastLogId=LogId [index=1, term=1], lastLogId=LogId [index=1, term=1].
+
+2024-03-22 22:43:23,166 INFO Node <naming_persistent_service_v2/nacos-server-1:7848> received RequestVoteRequest from nacos-server-2:7848, term=2, currTerm=1.
+
+2024-03-22 22:43:23,185 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_persistent_service_v2/meta-data, term=2, votedFor=0.0.0.0:0, cost time=18 ms
+
+2024-03-22 22:43:23,205 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_persistent_service_v2/meta-data, term=2, votedFor=nacos-server-2:7848, cost time=19 ms
+
+2024-03-22 22:43:23,667 INFO Node <naming_instance_metadata/nacos-server-1:7848> received PreVoteRequest from nacos-server-2:7848, term=2, currTerm=1, granted=true, requestLastLogId=LogId [index=1, term=1], lastLogId=LogId [index=1, term=1].
+
+2024-03-22 22:43:23,669 INFO Node <naming_instance_metadata/nacos-server-1:7848> received RequestVoteRequest from nacos-server-2:7848, term=2, currTerm=1.
+
+2024-03-22 22:43:23,688 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_instance_metadata/meta-data, term=2, votedFor=0.0.0.0:0, cost time=18 ms
+
+2024-03-22 22:43:23,708 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_instance_metadata/meta-data, term=2, votedFor=nacos-server-2:7848, cost time=20 ms
+
+2024-03-22 22:43:23,898 INFO Node <naming_service_metadata/nacos-server-1:7848> received PreVoteRequest from nacos-server-2:7848, term=2, currTerm=1, granted=true, requestLastLogId=LogId [index=1, term=1], lastLogId=LogId [index=1, term=1].
+
+2024-03-22 22:43:23,900 INFO Node <naming_service_metadata/nacos-server-1:7848> received RequestVoteRequest from nacos-server-2:7848, term=2, currTerm=1.
+
+2024-03-22 22:43:23,919 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_service_metadata/meta-data, term=2, votedFor=0.0.0.0:0, cost time=19 ms
+
+2024-03-22 22:43:23,940 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_service_metadata/meta-data, term=2, votedFor=nacos-server-2:7848, cost time=19 ms
+
+2024-03-22 22:57:07,480 INFO Node <naming_service_metadata/nacos-server-1:7848> shutdown, currTerm=2 state=STATE_FOLLOWER.
+
+2024-03-22 22:57:07,484 INFO onStopFollowing: LeaderChangeContext [leaderId=nacos-server-2:7848, term=2, status=Status[ESHUTDOWN<1007>: Raft node is going to quit.]].
+
+2024-03-22 22:57:07,498 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_service_metadata/meta-data, term=2, votedFor=nacos-server-2:7848, cost time=11 ms
+
+2024-03-22 22:57:07,499 INFO Shutting down FSMCaller...
+
+2024-03-22 22:57:07,500 INFO onShutdown.
+
+2024-03-22 22:57:07,501 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@58acb298[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,503 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@70312dd8[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,503 INFO The number of active nodes decrement to 3.
+
+2024-03-22 22:57:07,503 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_service_metadata/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,504 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_service_metadata/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,505 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_service_metadata/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,505 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_service_metadata/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,507 INFO Node <naming_service_metadata/nacos-server-1:7848> shutdown, currTerm=2 state=STATE_SHUTTING.
+
+2024-03-22 22:57:07,508 INFO Stop the RaftGroupService successfully.
+
+2024-03-22 22:57:07,509 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_service_metadata/log.
+
+2024-03-22 22:57:07,509 INFO Node <naming_persistent_service/nacos-server-1:7848> shutdown, currTerm=2 state=STATE_FOLLOWER.
+
+2024-03-22 22:57:07,510 INFO onStopFollowing: LeaderChangeContext [leaderId=nacos-server-2:7848, term=2, status=Status[ESHUTDOWN<1007>: Raft node is going to quit.]].
+
+2024-03-22 22:57:07,528 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_persistent_service/meta-data, term=2, votedFor=nacos-server-2:7848, cost time=18 ms
+
+2024-03-22 22:57:07,529 INFO Shutting down FSMCaller...
+
+2024-03-22 22:57:07,529 INFO onShutdown.
+
+2024-03-22 22:57:07,530 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@67d1f8bb[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,530 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@69754952[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,531 INFO The number of active nodes decrement to 2.
+
+2024-03-22 22:57:07,531 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_persistent_service/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,532 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_persistent_service/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,532 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_persistent_service/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,533 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_persistent_service/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,533 INFO Node <naming_persistent_service/nacos-server-1:7848> shutdown, currTerm=2 state=STATE_SHUTTING.
+
+2024-03-22 22:57:07,534 INFO Stop the RaftGroupService successfully.
+
+2024-03-22 22:57:07,534 INFO Node <naming_instance_metadata/nacos-server-1:7848> shutdown, currTerm=2 state=STATE_FOLLOWER.
+
+2024-03-22 22:57:07,535 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_persistent_service/log.
+
+2024-03-22 22:57:07,535 INFO onStopFollowing: LeaderChangeContext [leaderId=nacos-server-2:7848, term=2, status=Status[ESHUTDOWN<1007>: Raft node is going to quit.]].
+
+2024-03-22 22:57:07,551 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_instance_metadata/meta-data, term=2, votedFor=nacos-server-2:7848, cost time=15 ms
+
+2024-03-22 22:57:07,551 INFO Shutting down FSMCaller...
+
+2024-03-22 22:57:07,552 INFO onShutdown.
+
+2024-03-22 22:57:07,552 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@2bb548a1[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,553 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@1ed06341[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,553 INFO The number of active nodes decrement to 1.
+
+2024-03-22 22:57:07,553 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_instance_metadata/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,554 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_instance_metadata/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,554 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_instance_metadata/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,555 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_instance_metadata/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,556 INFO Node <naming_instance_metadata/nacos-server-1:7848> shutdown, currTerm=2 state=STATE_SHUTTING.
+
+2024-03-22 22:57:07,556 INFO Stop the RaftGroupService successfully.
+
+2024-03-22 22:57:07,557 INFO Node <naming_persistent_service_v2/nacos-server-1:7848> shutdown, currTerm=2 state=STATE_FOLLOWER.
+
+2024-03-22 22:57:07,557 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_instance_metadata/log.
+
+2024-03-22 22:57:07,557 INFO onStopFollowing: LeaderChangeContext [leaderId=nacos-server-2:7848, term=2, status=Status[ESHUTDOWN<1007>: Raft node is going to quit.]].
+
+2024-03-22 22:57:07,574 INFO Save raft meta, path=/home/nacos/data/protocol/raft/naming_persistent_service_v2/meta-data, term=2, votedFor=nacos-server-2:7848, cost time=16 ms
+
+2024-03-22 22:57:07,574 INFO Shutting down FSMCaller...
+
+2024-03-22 22:57:07,574 INFO onShutdown.
+
+2024-03-22 22:57:07,575 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@762c4400[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,576 INFO ThreadPool is terminated: JRaft-Node-ScheduleThreadPool, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@35d0ac4e[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,576 INFO The number of active nodes decrement to 0.
+
+2024-03-22 22:57:07,579 INFO ThreadPool is terminated: JRaft-Global-ElectionTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@10d01b4a[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 609].
+
+2024-03-22 22:57:07,580 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-ElectionTimer-<naming_persistent_service_v2/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,580 INFO ThreadPool is terminated: JRaft-Global-VoteTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@34210a15[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,580 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=5000, name='JRaft-VoteTimer-<naming_persistent_service_v2/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,581 INFO ThreadPool is terminated: JRaft-Global-StepDownTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@29f6bdbb[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,581 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=2500, name='JRaft-StepDownTimer-<naming_persistent_service_v2/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,582 INFO ThreadPool is terminated: JRaft-Global-SnapshotTimer, com.alipay.sofa.jraft.util.MetricScheduledThreadPoolExecutor@2cdb621[Shutting down, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0].
+
+2024-03-22 22:57:07,583 INFO Destroy timer: RepeatedTimer{timeout=null, stopped=true, running=false, destroyed=true, invoking=false, timeoutMs=1800000, name='JRaft-SnapshotTimer-<naming_persistent_service_v2/nacos-server-1:7848>'}.
+
+2024-03-22 22:57:07,584 INFO Node <naming_persistent_service_v2/nacos-server-1:7848> shutdown, currTerm=2 state=STATE_SHUTTING.
+
+2024-03-22 22:57:07,584 INFO Stop the RaftGroupService successfully.
+
+2024-03-22 22:57:07,585 INFO DB destroyed, the db path is: /home/nacos/data/protocol/raft/naming_persistent_service_v2/log.
+
+2024-03-22 22:57:07,586 INFO Shutdown managed channel: nacos-server-3:7848, ManagedChannelOrphanWrapper{delegate=ManagedChannelImpl{logId=4, target=nacos-server-3:7848}}.
+
+2024-03-22 22:57:07,587 INFO The channel nacos-server-3:7848 is in state: SHUTDOWN.
+
+2024-03-22 22:57:07,588 WARN This channel nacos-server-3:7848 has started shutting down. Any new RPCs should fail immediately.
+
+2024-03-22 22:57:07,588 INFO Connection disconnected: /192.168.56.4:36812
+
+2024-03-22 22:57:07,590 INFO Shutdown managed channel: nacos-server-1:7848, ManagedChannelOrphanWrapper{delegate=ManagedChannelImpl{logId=14, target=nacos-server-1:7848}}.
+
+2024-03-22 22:57:07,591 INFO The channel nacos-server-1:7848 is in state: SHUTDOWN.
+
+2024-03-22 22:57:07,592 WARN This channel nacos-server-1:7848 has started shutting down. Any new RPCs should fail immediately.
+
+2024-03-22 22:57:07,593 INFO Shutdown managed channel: nacos-server-2:7848, ManagedChannelOrphanWrapper{delegate=ManagedChannelImpl{logId=10, target=nacos-server-2:7848}}.
+
+2024-03-22 22:57:07,593 INFO Connection disconnected: /192.168.56.7:33298
+
+2024-03-22 22:57:07,594 INFO The channel nacos-server-2:7848 is in state: SHUTDOWN.
+
+2024-03-22 22:57:07,595 WARN This channel nacos-server-2:7848 has started shutting down. Any new RPCs should fail immediately.
+
+2024-03-22 22:57:07,598 INFO ThreadPool is terminated: JRaft-RPC-Processor, com.alipay.sofa.jraft.util.MetricThreadPoolExecutor@683a0b6e[Shutting down, pool size = 12, active threads = 0, queued tasks = 0, completed tasks = 894].
+
